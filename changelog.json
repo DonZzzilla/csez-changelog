@@ -1,0 +1,2354 @@
+[
+  {
+    "version": "1.6.8.0",
+    "date": "2026-06-01",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Backend server improvements update"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.7.0",
+    "date": "2026-05-29",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed a bullet duplication issue.",
+          "Fixed an issue where selling certain quest items caused HQ to restart.",
+          "Optimized the mechanism for item spawning.",
+          "Added a merchant exchange option for the cellar key.",
+          "12GA EXPRESS BUCKSHOT ammo: reduced flesh damage from 35 to 25.",
+          "Adjusted the prices of certain ammo types appropriately."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.6.0",
+    "date": "2026-05-20",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Attempted to fix a duplication issue"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.5.0",
+    "date": "2026-05-15",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Optimized game performance.",
+          "Fixed an issue that could cause crashes in HQ.",
+          "Fixed an issue that allowed players to pass through walls.",
+          "Fixed an issue where bots could spawn inside walls.",
+          "Fixed an issue where players could get onto the top of the dam.",
+          "Attempted to fix an issue where extraction would not occur after the extraction timer reached zero.",
+          "Improved the Kiosk temporary storage box; storage duration has been adjusted to 24 hours.",
+          "Improved the descriptions of some tasks.",
+          "Fixed an issue where hunger and thirst values in HQ were not updating in real time.",
+          "Fixed an issue where loaded Sjogren magazines would disappear after entering a match.",
+          "Fixed an issue where some task items had incorrect materials after switching to LOD.",
+          "Fixed an issue where the number of hideout renovations exceeded the total count.",
+          "Fixed texture/model issues with the Tbeast CB Cover suppressor.",
+          "Fixed collision issues with some miscellaneous items.",
+          "Fixed an issue where the flare gun\u2019s collision size was too large.",
+          "Fixed some UI overlap issues.",
+          "Fixed an issue where, when using controller forward movement, the controller offset did not affect movement direction detection."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.4.0",
+    "date": "2026-05-08",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue where players could get onto the top of the dam.",
+          "Attempted to fix safety container abnormalities.",
+          "Attempted to fix an issue where purchased items sometimes failed to spawn.",
+          "Fixed an issue where the Elite scav optic could be duplicated infinitely.",
+          "Fixed an issue where rewards could not be claimed because they exceeded the weight limit.",
+          "Fixed an issue where research missions could cause the Hideout to restart.",
+          "Fixed an issue where the mission \u201cRecord Left Behind\u201d did not properly generate the required mission item.",
+          "Fixed a series of inaccurate mission descriptions.",
+          "Fixed an issue where the hand material was incorrect on the new Hand Only model.",
+          "Fixed an issue where cash items could not be extracted properly.",
+          "Fixed an issue where adding graphics cards could cause abnormal balance changes.",
+          "Fixed an issue where masks sometimes failed to block bullets properly.",
+          "Fixed an issue where the lounge poster wall was not saved correctly.",
+          "Fixed an issue where the character-switching screen incorrectly locked characters.",
+          "Adjusted abnormal collision on some items.",
+          "Adjusted the storage angle of some items inside safes.",
+          "Adjusted the position of the Hideout data panel.",
+          "Fixed an issue where some players\u2019 match records were not saved correctly, causing maps to remain locked."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.3.1",
+    "date": "2026-04-28",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed head tracking jittering / wobbling for quest",
+          "Fixed fall damage reducing health on all body parts",
+          "Fixed items occasionally dropping in floor when buying items from trader (additional patch for Quest ONLY)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.3.0",
+    "date": "2026-04-27",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Improved Quest performance",
+          "Fixed an issue where entering PvE Casual Mode in solo play could result in incorrect difficulty.",
+          "Fixed an armor duplication exploit.",
+          "Fixed a graphics card duplication exploit.",
+          "Adjusted the storage capacity for miscellaneous items in HQ facility upgrades.",
+          "Made visual adjustments to sunny and foggy weather.",
+          "Updated the descriptions for some DLC item unlocks.",
+          "Increased the ammunition stock available in the shop.",
+          "Fixed inaccurate descriptions for certain tasks.",
+          "Slightly increased the shop stock for some armor items.",
+          "Fixed Resort boss spawning issue.",
+          "Adjusted the proportion of AI shots hitting the chest.",
+          "Fixed an issue where weapon fire rate could be affected by frame rate."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.2.0",
+    "date": "2026-04-24",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue where the Quest 'The Last Screw' could not be completed properly.",
+          "Fixed a bug where safes could disappear in PvE Solo Mode.",
+          "Fixed an issue where some buildings in a scene appeared overly white.",
+          "Fixed an issue where the gpu mining farm was not working properly for some players.",
+          "Adjusted the rain sound levels.",
+          "Fixed an issue where the Timer UI on MICA could sometimes disappear.",
+          "Armor durability now decreases more slowly.",
+          "Low-tier AI will no longer have a chance to use AP ammo.",
+          "Fixed issue scav players can take off gear from other Scav AI while they are alive",
+          "Fixed issue where armors purchased to kiosk lost durability",
+          "Fixed issue where purchasing ammo clips into kiosk will result in an invisible bullet item",
+          "Decreased energy and hydration draining speed when stomach is broken",
+          "(+Late addition) Fixed AI scav spawn behavior, scavs no longer spawns in units exceeding the designed unit counts"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.1.0",
+    "date": "2026-04-23",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Make sure to restart your device/software in order to install the update",
+          "Fixed quest jittering issue"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.1.0",
+    "date": "2026-04-23",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Free PVE Coop from now till Monday, 04/27/2026 at 5am PDT (Shown in your current time zone: April 27, 2026 05:00:00 PDT 04/27/2026 at 5am PDT) This is both for STEAM and META",
+          "Fixed PvE Casual mode difficulty issue",
+          "Improved Quest performance",
+          "Adjusted shooting accuracy for high level scav AI",
+          "Attempted to improve flashlight performance on Quest",
+          "Fixed an issue where some missions could not be completed",
+          "Fixed an issue where PMC AI could appear in PvP mode",
+          "Fixed an issue with abnormal HQ facility unlocks",
+          "Fixed an issue where keys could be placed in the secure container",
+          "Fixed an issue with incorrect portraits in the character selection screen",
+          "Fixed an issue where materials from upgraded HQ facilities could not be retrieved",
+          "Fixed an issue where mail reward icons could display incorrectly",
+          "Fixed an issue where purchasing magazines could cause a server restart",
+          "Fixed an issue where bullet impact effects would not display in multiplayer mode"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.0.0",
+    "date": "2026-04-21",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''Full Wipe \ud83d\udd01'''",
+        "items": []
+      },
+      {
+        "name": "'''New Features'''",
+        "items": [
+          "Introduced the new PvE Mode, offering a dedicated co-op experience for players looking for a more accessible and structured way to enter ExfilZone",
+          "Added two difficulty options: Casual and Standard",
+          "Squad-based PvE can now be unlocked through the party leader purchasing the DLC",
+          "Added PMC AI",
+          "Smarter behavior logic",
+          "More reasonable AI distribution",
+          "Better difficulty scaling for a more layered combat experience",
+          "Added new Elite SCAVs",
+          "Increased the chance for AI backpacks to contain a wider variety of random loot",
+          "Fully rebalanced the economy system for a healthier income/spending loop",
+          "Jonny: Added a new Restock feature for more stable replenishment",
+          "Higher risk now comes with higher rewards",
+          "Added both weekly and daily shop refresh rules for better control over item quality distribution",
+          "Adjusted item values",
+          "Armor, helmets, and other protective gear looted from SCAVs may now come with varying durability damage, affecting both durability and protection level",
+          "Improved backend systems to better prevent item duplication issues",
+          "Outdoor maps now have a chance to trigger special weather conditions such as rain and fog",
+          "Even in clear weather, outdoor maps now feature more varied environmental atmosphere",
+          "Added a Dog Tag system",
+          "Added an Equipment Voucher system",
+          "Added Equipment Skin customization",
+          "Added a Daily Login Reward event",
+          "Added information display while holding items",
+          "Added key requirement display when gripping a door handle",
+          "Mystica Ranch Backpack",
+          "Operator Backpack",
+          "IBH SOCOM Helmet",
+          "CCBM Ballistic Mask",
+          "Galvor Tactical Helmet",
+          "Galvor Ballistic Goggles",
+          "Maska-1Sch",
+          "Maska-1Sch Face Shield",
+          "6B5-16 Khaki Body Armor",
+          "6B23-1 Body Armor",
+          "6B23-2 Body Armor",
+          "TBAS V5 MC Plate Carrier Vest",
+          "TBAS V5 BK Plate Carrier Vest",
+          "CenturionV3 SAPI Plate Carrier MC",
+          "CenturionV3 SAPI Plate Carrier SD",
+          "CenturionV3 SAPI Plate Carrier TG",
+          "6B45 \"Ratnik\" Plate Carrier"
+        ]
+      },
+      {
+        "name": "'''Optimizations, Adjustments, and Bug Fixes'''",
+        "items": [
+          "Adjusted Hideout facility layout and functions for an upgraded base management experience",
+          "Added Kiosk Direct Sale, allowing players to sell items directly for more convenient cash conversion",
+          "Adjusted the quest line with improved mission flow and crafting logic for a smoother onboarding experience",
+          "Improved difficulty information display for maps: Dam, Suburb, and Resort",
+          "Removed the ability to place keys inside the secure container",
+          "Adjusted the Halloween DLC content: removed daily purchasable Halloween gear from the shop, and replaced it with 1 set of spray items plus skin unlocks",
+          "Removed the ability to place grenades inside the secure container",
+          "Reduced shotgun spread by 20%",
+          "Reduced bleed chance for all ammunition by 50%",
+          "Reduced penetration power of 7.62x54R SP rounds from 2.8 to 2.1",
+          "Separated the volume of enemy and player footsteps; re-balanced footstep sounds on grass and mud surfaces",
+          "Reworked backpack capacities and removed the Elite Ops Backpack\u2019s ability to carry armor",
+          "Adjusted stock and prices of armor, backpacks, and other protective gear in the shop",
+          "Adjusted ammunition prices and shop stock",
+          "Adjusted unlock levels and requirements for some ammo and armor",
+          "Adjusted starting stash items",
+          "Optimized helmet protection zone calculations based on each helmet\u2019s visual model, fixing issues that could cause abnormal protection detection",
+          "Closed armor armpit gaps, preventing bullets from bypassing armor and directly hitting the chest",
+          "Increased the minimum protection level retained when armor durability drops",
+          "Reduced penetration chance when bullet penetration is close to the protection level of helmets, armor, and face shields",
+          "Adjusted the character\u2019s default food and hydration limits",
+          "Fixed an issue where weapons with non-detachable magazines, such as shotguns, SKS, and Mosin, would lose their magazine ammo after entering a raid",
+          "Fixed an issue where picked-up weapons with non-detachable magazines had no ammo",
+          "Fixed an issue where weapons dropped by AI with non-repairable magazines had no ammo when picked up",
+          "Fixed an issue where AI used incorrect ammo tiers; high-level AI will now use stronger ammunition",
+          "Improved AI weapon drop logic: dropped weapons now contain a random amount of the actual ammo type the AI was using, and will be chambered",
+          "Improved visual quality of some environmental model textures",
+          "Improved visual presentation of northern conifer forest trees",
+          "Fixed some map clipping issues",
+          "Fixed gaps in some building models",
+          "Improved performance in certain areas",
+          "Enhanced visual quality of some terrain materials",
+          "Improved physical material effects on some ground surfaces"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.14.0",
+    "date": "2026-04-10",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Server side update for v.1.5.14.0",
+          "Fixed safe container issue not saving items upon death"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.14.0",
+    "date": "2026-04-09",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Added elite Scav AI with new behavior"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.13.0",
+    "date": "2026-04-02",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Added pre-wipe event"
+        ]
+      },
+      {
+        "name": "'''Beer Festival Event:'''",
+        "items": [
+          "Removal compensation store",
+          "Unlocks player shop level (All traders lvl 4)",
+          "Discounted shop items 50%",
+          "HQ upgrade materials replaced with beer",
+          "Killing scavs now drops beer (2 new special beers)",
+          "Bosses having Burgers and Beers in Trupiks"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.12.0",
+    "date": "2026-03-13",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed some duplication issues"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.11.2",
+    "date": "2026-03-10",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed issue for some Meta and Steam users unable to connect to servers"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.11.0",
+    "date": "2026-03-06",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue where some Quest users were unable to connect.",
+          "Fixed an issue where grenades with the safety pin already pulled could be placed into backpacks.",
+          "Fixed an issue where players could go underground.",
+          "Fixed incorrect attachments on the M16.",
+          "Improved the UI notification when the network connection is lost."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.10.0",
+    "date": "2026-03-03",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed issue that some standalone Quest users were unable to connect to the servers"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.10.0",
+    "date": "2026-02-28",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed the issue where multiple muzzle attachments could be stacked",
+          "Fixed multiple spots that could go underground",
+          "Fixed the issue where gunsmith table could abnormally obtain firearms",
+          "Fixed the issue where M4A1 DD purchase was missing attachments",
+          "Fixed the issue where some players\u2019 in-game tasks might not complete",
+          "Fixed the issue where MICA reads armor durability incorrectly",
+          "Fixed the issue where M67 grenade in backpack had no collision with other grenades and could stack",
+          "Optimized descriptions for some tasks"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.9.0",
+    "date": "2026-02-06",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed issue with attachments on gunsmith bench"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.8.0",
+    "date": "2026-02-05",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''New Features'''",
+        "items": [
+          "Added raid data/statistics feature: At the end of raids, view this raid's data and info on players you engaged with; back at HQ, view data from the last 30 raids",
+          "You can now exchange excess Level 6 armor for supplies and materials (S.D. Protector Full Body Armor)",
+          "Fixed the issue where attachments could be installed on incompatible guns",
+          "Fixed the issue where players could purchase attachments that were not yet unlocked",
+          "Fixed an issue with copying attachments at the gunsmith bench",
+          "Fixed the issue with HRMA scope zeroing point being incorrect",
+          "Optimized SVD gunshot sound parameters",
+          "Optimized the dirt effect on scope lenses",
+          "Adjusted the grade/level and drop rarity of bullets in the shop"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.7.0",
+    "date": "2026-01-30",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Added coagulation mechanism; bleeding effects will now stop automatically after a period of time",
+          "Optimized bandage usage priority: when applied to non-bleeding areas, it now prioritizes treating bleeding in other areas",
+          "Optimized matching page display effects, added quick task jump functionality",
+          "Optimized end-of-match countdown display effects and presentation",
+          "Food consumption: In-match idle consumption reduced by 50%, running consumption reduced by 40%",
+          "Water consumption: In-match idle consumption reduced by 50%, running consumption reduced by 20%",
+          "Fall damage reduced by 25%",
+          "Fixed two locations where players could clip through walls into underground areas",
+          "9x19mm RIP, 102 \u2192 88",
+          ".45 ACP \"SHOCK-CORE\", 100 \u2192 86",
+          ".45 ACP RIP, 130 \u2192 105",
+          "7.62x39mm HP, 80 \u2192 84",
+          "5.45x39mm HP, 78 \u2192 80",
+          "5.56x45mm HP, 79 \u2192 81",
+          "5.56x45mm \"VITALSTRIKE\", 88 \u2192 90",
+          "7.62x54R SP, 92 \u2192 90",
+          "7.62x54R HP, 105 \u2192 102",
+          "7.62x51mm HP, 92 \u2192 90",
+          "7.62x51mm Ultra Nosler, 105 \u2192 101",
+          "9x19mm Luger CCI: 495\u00d715=7425, 1450\u00d715=21750",
+          "9x19mm AP: 571\u00d715=8565, 1750\u00d715=26250",
+          "9x19mm RIP: 2633\u00d715=39495",
+          "9x19mm PBP: 3563\u00d715=53445",
+          ".45 ACP \"SHOCK-CORE\": 872\u00d715=13080, 2700\u00d715=40500",
+          ".45 ACP AP: 940\u00d715=14100, 2300\u00d715=34500",
+          ".45 ACP RIP ammo now requires redemption; removed from the magazine quick-fill purchase list",
+          "7.62x51mm HP: 380\u00d715=5700",
+          "7.62x51mm Ultra Nosler: 550\u00d715=8250",
+          "Stomach: 1.0x \u2192 0.8x",
+          "Stomach: 1.1x \u2192 0.8x",
+          "arm: 0.7x \u2192 0.5x",
+          "Upper leg: 1.0x \u2192 0.7x",
+          "Lower leg: 0.7x \u2192 0.5x"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.6.0",
+    "date": "2026-01-20",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Added compensation store",
+          "Fixed Steam DLC not showing up in game",
+          "Fixed Meta PCVR not functional"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.5.0",
+    "date": "2026-01-19",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Security update",
+          "Friend system issues fix"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.5.0",
+    "date": "2026-01-16",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Added a prompt/notification for missing essential supplies/items before matchmaking/queuing.",
+          "Added map display to the B-key menu.",
+          "Fixed an issue where one type of firearm/gun could be duplicated/copied.",
+          "Fixed an issue allowing abnormal/illegal entry to the underground area in Resort.",
+          "Fixed performance stuttering/lag caused by multiple flashlights.",
+          "Optimized the compass to be enabled by default."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.4.0",
+    "date": "2026-01-06",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Removed Christmas decorations from Hideout.",
+          "Fixed a bullet duplication bug.",
+          "Fixed the incorrect icon for the IMTV \"Bonecrusher\".",
+          "Fixed an issue where 7.62x51 M80A1 ammo could be purchased abnormally.",
+          "Fixed an issue where the MP5 100-round magazine could be purchased abnormally.",
+          "Fixed icon errors for certain ammo in the shop.",
+          "Fixed some gun settlement name errors.",
+          "Appropriately increased the drop rate of certain Hideout upgrade materials."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.3.0",
+    "date": "2025-12-30",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed shotgun damage anomaly issue",
+          "Fixed an issue where locked magazines could be purchased",
+          "Fixed an issue where attachments could be duplicated",
+          "Fixed character model anomaly issue after grabbing ladders",
+          "Explosive Romance: Optimized text with more detailed descriptions",
+          "Surveillance 2: Corrected mission objective text",
+          "Engineering Obstruction: Corrected marker positions and text",
+          "Fixed texture display error for 9x39 ammo box",
+          "Fixed Rampage 'Bells' armor rig installation position protrusion issue",
+          "Fixed issue with erroneously spawned items on the map",
+          "Fixed MP9 fire mode switch model not moving issue",
+          "Modified spray paint effects on firearm components",
+          "M1928 .45acp Long barrel",
+          "M1928 .45acp M1A1 barrel",
+          "M1928 .45acp Short barrel",
+          "M1928 A1 handguard",
+          "M1928 vertical handguard",
+          "M1928 pistol grip",
+          "M1928 Wood stock",
+          "M1928 .45acp 25rnd magazine",
+          "M1928 .45acp 50rnd drum magazine",
+          "SR-3M polymer Black Vertical foregrip",
+          "SR-3M polymer Red Vertical foregrip",
+          "VSS&ASVal suppressor 4 Rail mount",
+          "SR-3M 9x39mm suppressor",
+          "SVD Low mount",
+          "SVD R43 7.62x54mmR suppressor"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.2.0",
+    "date": "2025-12-26",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed a bug where the SF60 magazine could not be properly attached or detached.",
+          "Fixed an issue where unclear descriptions made the Hack to Play task difficult to complete.",
+          "Fixed a problem where task items did not spawn correctly in Toxicology Recovery.",
+          "Adjusted the spawn probability of Large Plier in the game environment.",
+          "Adjusted the recoil behavior of the M1928 when firing.",
+          "Adjusted the weapon shake of the M1928 when firing.",
+          "Fixed an error in the display of recoil values in the store.",
+          "SVD 7.62x54mmR 410mm Barrel: Firing Power reduced from [+2%] to [-2%].",
+          "M1928 .45 ACP Submachine Gun (Lower Receiver): Vertical recoil reduced by [6], horizontal recoil increased by [76.8].",
+          "M1928 A1 Handguard: Recoil reduction reduced from [-15%] to [-3%].",
+          "M1928 Vertical Handguard: Recoil reduction reduced from [-21%] to [-6%].",
+          "M1928 Wood Stock: Recoil reduction reduced from [-23%] to[-17.5%].",
+          "M1928 .45 ACP Short Barrel: Firing Power reduced from [-3%] to [-4%], recoil reduction reduced from [-10%] to [-6%].",
+          "M1928 .45 ACP Long Barrel: Firing Power increased from [-3%] to [0%], recoil reduction reduced from [-15%] to [-3%].",
+          "M1928 .45 ACP M1A1 Barrel: Recoil reduction reduced from [-10%] to [-4%]."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.1.0",
+    "date": "2025-12-23",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue where gunsmith bench attachments were not unlocking properly",
+          "Fixed an issue where opening crates in-game could cause players to get stuck",
+          "Fixed a terrain issue",
+          "Adjusted positions of some airdrop crates that couldn\u2019t be entered",
+          "Fixed display abnormalities in some UI elements",
+          "Adjusted issues with certain items being abnormally unlocked in the store"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.5.0.0",
+    "date": "2025-12-22",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''Full Wipe \ud83d\udd01'''",
+        "items": []
+      },
+      {
+        "name": "'''New Content'''",
+        "items": [
+          "Added Christmas event",
+          "Added Hideout Christmas decoration",
+          "New weapons and attachments",
+          "Added Quick Loadout:",
+          "Overhauled Dam map: Modified natural terrain of the Dam, optimized POI distribution and structures, redesigned Dam route planning. New POIs added to Dam map: Turbine Field, Lumberyard, Camp#10, Crash Site, Desolate Village, Field Clinic, Weather Outpost",
+          "Added physical gunstock calibration",
+          "Added mechanic: Limb Penetration",
+          "Bullets will pass through limb areas and continue flying to hit targets, but penetration consumes the bullet's penetration value and converts damage.",
+          "A single bullet may hit multiple body parts.",
+          "Penetrating both armor and limbs consumes penetration value. Current limb penetration resistance is 2. Armor-protected areas add to limb resistance. Torso hits on the same character are calculated only once (e.g., chest).",
+          "Added mini-map display for tasks and more",
+          "Added task difficulty indicators",
+          "Added 5 new weapons:",
+          "SVD 7.62x54R Designated Marksman Rifle",
+          "VSS 9x39mm Designated Marksman Rifle",
+          "AS Val 9x39mm Assault Rifle",
+          "SR-3M 9x39mm Carbine",
+          "M1928 .45 ACP Submachine Gun",
+          "Added 56 related attachments, including 5 weapon lower receivers:",
+          "SVD 7.62x54R 410mm Barrel",
+          "SVD 7.62x54R 565mm Barrel",
+          "SVD Polymer Handguard",
+          "SVD SAG MK1 Handguard",
+          "SVD Wood Handguard",
+          "SVD 7.62x54R Designated Marksman Rifle",
+          "SVD 7.62x54R 10-Round Magazine",
+          "SVD Low Mount",
+          "SVD Designated Marksman Rifle PSO-1 Scope",
+          "SVD 7.62x54R Compensator",
+          "SVD Rear Sight",
+          "SVD AR Pistol Grip & AR Stock Adapter",
+          "SVD Polymer Stock",
+          "SVD Wood Stock",
+          "SVD R43 7.62x54R Suppressor",
+          "SVD Cut-Off Dust Cover",
+          "SVD Standard Dust Cover",
+          "SR-3M Polymer Black Vertical Foregrip",
+          "SR-3M Polymer Red Vertical Foregrip",
+          "AS Val Polymer Red Handguard",
+          "SR-3M Polymer Black Handguard",
+          "SR-3M Polymer Red Handguard",
+          "VSS Polymer Black Handguard",
+          "AS Val 9x39mm Assault Rifle",
+          "SR-3M 9x39mm Carbine Rifle",
+          "VSS 9x39mm Designated Marksman Rifle",
+          "VSS 9x39mm 10-Round Magazine",
+          "AS Val 9x39mm 20-Round Magazine",
+          "SR-3M 9x39mm 30-Round Magazine",
+          "VSS & AS Val Suppressor 4-Rail Mount",
+          "VSS & AS Val Suppressor 3-Rail Mount",
+          "VSS & AS Val Suppressor Top Rail Mount",
+          "AS Val & SR-3M Polymer Black Pistol Grip",
+          "AS Val & SR-3M Polymer Red Pistol Grip",
+          "VSS & AS Val Rear Sight",
+          "AS Val & SR-3M Folding Stock",
+          "AS Val & SR-3M AK Pistol Grip & AR Stock Adapter",
+          "VSS Polymer Stock",
+          "VSS Wood Stock",
+          "SR-3M 9x39mm Suppressor",
+          "VSS & AS Val 9x39mm Suppressor",
+          "VSS & AS Val & SR-3M Railed Dust Cover",
+          "VSS & AS Val & SR-3M Standard Dust Cover",
+          "M1928 .45 ACP Long Barrel",
+          "M1928 .45 ACP M1A1 Barrel",
+          "M1928 .45 ACP Short Barrel",
+          "M1928 A1 Handguard",
+          "M1928 Vertical Handguard",
+          "M1928 .45 ACP Submachine Gun",
+          "M1928 .45 ACP 25-Round Magazine",
+          "M1928 .45 ACP 50-Round Drum Magazine",
+          "M1928 .45 ACP Compensator",
+          "M1928 Pistol Grip",
+          "M1928 Rear Sight",
+          "M1928 Wood Stock",
+          "M1928 .45 ACP Upper Receiver",
+          "Added 40 new ammo types, including 6 types of 9x39mm:",
+          "12ga Lead Slug",
+          "12ga Poleva-6u Slug",
+          "12ga Express Buckshot",
+          "12ga Super HP Slug",
+          "12ga BMG Slug",
+          ".45 ACP Shock-core",
+          ".45 ACP RIP",
+          "5.45x39mm HP",
+          "5.45x39mm T",
+          "5.45x39mm BT",
+          "5.45x39mm 7N39",
+          "5.56x45mm HP",
+          "5.56x45mm M856",
+          "5.56x45mm Vitalstrike",
+          "5.56x45mm M856A1",
+          "5.56x45mm M855A1",
+          "6.8x51mm Match",
+          "6.8x51mm Hybrid",
+          "6.8x51mm Elite",
+          "7.62x39mm HP",
+          "7.62x39mm T-45M",
+          "7.62x39mm PP",
+          "7.62x51mm HP",
+          "7.62x51mm Ultra Nosler",
+          "7.62x51mm M62 Tracer",
+          "7.62x51mm M80A1",
+          "7.62x54R SP",
+          "7.62x54R T-46M",
+          "7.62x54R BT",
+          "7.62x54R BS",
+          "9x19mm G T",
+          "9x19mm Luger CCI",
+          "9x19mm RIP",
+          "9x19mm PBP",
+          "9x39mm FMJ",
+          "9x39mm SP5",
+          "9x39mm SPP",
+          "9x39mm PAB-9",
+          "9x39mm SP6",
+          "9x39mm BP",
+          "Balanced bullet blunt damage coefficients and other attack data; added more ammo variants per caliber (flesh damage rounds, AP rounds, etc.).",
+          "Added 9x39mm Ammo Box",
+          "Taskline adjustments:",
+          "Modified Maggie's initial task line",
+          "Modified many Dam map tasks",
+          "Increased number of basic tasks, adjusted difficulty of some late-game tasks",
+          "Reduced quantities of required items in some tasks",
+          "Reduced task locks between different traders",
+          "Modified completion conditions for some tasks",
+          "Removed some exfil-specific extraction tasks",
+          "Modified reputation rewards for some tasks",
+          "Increased currency rewards for some early tasks",
+          "ANNA trader tasks unlocked in early-mid game, with rewards including top-tier ammo exchanges"
+        ]
+      },
+      {
+        "name": "'''Optimizations and Bug Fixes'''",
+        "items": [
+          "Optimized big map lighting effects, improving visual quality",
+          "Fixed some issues causing server crashes",
+          "Adjusted model sizes for some high-value items, redesigned visual effects for certain items",
+          "Optimized compass display",
+          "Optimized Hideout structure",
+          "Optimized Dam map spawn and exfil points",
+          "Optimized terrain structures, improving the Dam map performance",
+          "Fixed some known map bugs",
+          "Adjusted armor penetration curves to buff defense for all armor, helmets, and face masks:",
+          "All armor uses the same probability curve to calculate bullet penetration.",
+          "If bullet penetration > armor protection level, it will definitely penetrate.",
+          "If bullet penetration - helmet defense level \u2265 2, it will definitely penetrate.",
+          "If armor protection level - bullet penetration \u2265 1, it cannot be penetrated.",
+          "Increased blunt damage reduction coefficients for all armor.",
+          "Added text descriptions for armor's limb protection levels. Limb protection decreases with current armor durability.",
+          "Adjusted damage spread coefficients after limb destruction:",
+          "Upper arm: 0.5x \u2192 0.7x",
+          "Lower arm: 0.5x \u2192 0.7x",
+          "Upper leg: 0.5x \u2192 1.0x",
+          "Lower leg: 0.5x \u2192 0.7x",
+          "Stomach: 1.5x \u2192 1.1x"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.4.11.0",
+    "date": "2025-12-12",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed Issue for bullets showing wrong caliber and types.",
+          "Ammunition for new weapons can be found in raid (in preparation for events)",
+          "High Tier armor can be bought from Trader. Pre-wipe change enjoy"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.4.10.0",
+    "date": "2025-12-12",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed a duplication issue with the Gunsmith bench",
+          "Fixed a duplication issue in the kiosk",
+          "Fixed an issue that could cause the onboarding/tutorial to be entered multiple times"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.4.9.0",
+    "date": "2025-11-21",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed several issues that could potentially cause server crashes",
+          "Fixed a bug in the Resort map that would cause characters to get stuck",
+          "Fixed a bug where a Hideout facility upgrade effect was not applying correctly",
+          "Fixed a duplication exploit/bug",
+          "Adjusted the prices of some ammunition types in the shop"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.4.8.0",
+    "date": "2025-11-14",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Attempted to fix a server crash issue",
+          "Fixed abnormal sounds in the Smuggling Tunnel map",
+          "Fixed the issue where seca17 could load SF60 magazines",
+          "Fixed a clipping issue in one spot in Smuggling Tunnel",
+          "Fixed the invisible metro explosion wall",
+          "Fixed the invisible Resort Bank key door exfil point",
+          "Safe container adjustment: Bullets and magazines cannot be placed in the safe",
+          "Adjusted bullet purchase price and stock quantity"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.4.7.0",
+    "date": "2025-11-10",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Removed Halloween-related decorations and events",
+          "Fixed an issue where the PKP Drum abnormally duplicated bullets",
+          "Fixed an issue where ejected bullets would not properly enter the recycle bin",
+          "Fixed an issue where rapid clicking caused incorrect deductions when redeeming items",
+          "Fixed an issue with controller offset when using VD on Steam Deck",
+          "Updated the description for the \"Info for Aid\" quest",
+          "Fixed an issue where the description for the \"Deterrence 4\" quest did not match the actual required quantity",
+          "Optimized tactical reload for AKs: now only available when the weapon is held in hands, to prevent normal reload actions from accidentally ejecting magazines from hip-holstered guns",
+          "Optimized the aiming stability judgment logic, reducing the auxiliary effect",
+          "Adjusted MOA values for select weapons",
+          "Adjusted the impact of occlusion on gunfire sounds"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.4.6.0",
+    "date": "2025-10-31",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Updated the anti-cheat mechanism",
+          "Optimized the extraction point in the Smuggling Tunnel",
+          "Optimized the boss spawn logic",
+          "Appropriately adjusted the health of zombies in the Suburb and Dam",
+          "Appropriately adjusted the drop rate of blind boxes",
+          "Appropriately adjusted the hitbox range for the character's chest and abdomen",
+          "Appropriately adjusted the hearing range of the RYS-T type helmet",
+          "Fixed an issue where variable zoom scope spray paint skins could not be saved",
+          "Fixed an abnormal preset issue with the gunsmith bench",
+          "Fixed a duplication issue"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.4.5.1",
+    "date": "2025-10-27",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue where the defense level of the IOTV Gen3 'Haunted' body part did not match the displayed information (now aligned with the displayed level).",
+          "Corrected display errors for some icons."
+        ]
+      },
+      {
+        "name": "'''Additions'''",
+        "items": [
+          "Added HQ Halloween decorations.",
+          "Added special event: Smuggling Tunnel Infection game mode and related activities.",
+          "Armor repair machine now includes mask repair functionality.",
+          "When MICA scans armor equipment, it will display the protection level at the current durability.",
+          "MICA will display the protection level of the mask."
+        ]
+      },
+      {
+        "name": "'''Changes'''",
+        "items": [
+          "Increased durability of all helmet types by approximately 30%. Significantly increased mask durability.",
+          "Adjusted attenuation effects for footsteps and gunshots at long distances and through walls.",
+          "Adjusted installation logic for iron sights; multiple installations of the same type of iron sights are no longer possible.",
+          "Optimized the issue where throwable items could not be used normally after grabbing with a remapped trigger key."
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed a duplication issue.",
+          "Fixed the issue where enabling aim stabilization did not provide the corresponding functionality."
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed the issue in Taste of Life 3 where picking up sake for submission is not recognized.",
+          "Fixed the item submission in Magazine Recovery: magazines containing bullets cause HQ to restart.",
+          "Fixed the issue where a Scav\u2019s backpack is erroneously deleted.",
+          "Fixed an issue where the safe container abnormally fails to function.",
+          "Fixed the M870-DM Mag not having a holster to store it in."
+        ]
+      },
+      {
+        "name": "'''Changes'''",
+        "items": [
+          "Adjusted the firing sound when the XM5 is equipped with the SLX68 suppressor."
+        ]
+      },
+      {
+        "name": "'''New Features'''",
+        "items": [
+          "Added a setting to adjust controller offset."
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed an issue where disconnection and reconnection could lead to item duplication.",
+          "Fixed a bug that allowed bullets to be duplicated.",
+          "Fixed an issue where certain weapon presets could cause duplication.",
+          "Fixed an issue where keys could not be placed inside the safe container.",
+          "Fixed abnormal grenade damage.",
+          "Fixed several quests that could not be completed properly."
+        ]
+      },
+      {
+        "name": "'''Quest Adjustments'''",
+        "items": [
+          "Magazine Recovery \u2013 Fixed an issue where magazines could not be submitted.",
+          "Ears in the Walls \u2013 Fixed missing quest items in the warehouse.",
+          "Hair Comes First \u2013 Updated description; kills without wearing a helmet now count correctly.",
+          "Salvage Mission 1 \u2013 Updated description; the mission involves up to four TVs instead of five.",
+          "Protection Racket \u2013 Fixed missing container for cash placement; related task adjusted."
+        ]
+      },
+      {
+        "name": "'''Traders'''",
+        "items": [
+          "TP Trader \u2013 Added an additional exchange option for Golden Figurines to improve the low drop rate issue."
+        ]
+      },
+      {
+        "name": "'''Balance Adjustments'''",
+        "items": [
+          "Adjusted Battle Royale (BR) loot distribution and character movement speed."
+        ]
+      },
+      {
+        "name": "'''Map Adjustments'''",
+        "items": [
+          "Fixed overly aggressive LOD (Level of Detail) settings on several models.",
+          "Fixed terrain areas where players could get stuck.",
+          "Fixed rocks that could cause players to get trapped.",
+          "Fixed misaligned coastline boundaries in Suburb and Dam.",
+          "Fixed missing collisions on certain models."
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed issues for quests that were unable to be completed",
+          "Fixed map issue on Smuggling Tunnel"
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed the issue where some players were unable to properly claim DLC. There may be a very small number of players who did not receive it correctly; please contact with email: store@cavemanstudio.net",
+          "Fixed the issue where the golden globe in the Secret Stash 2 quest could not be placed.",
+          "Fixed the incorrect description in the M16 Modification Trial quest.",
+          "Fixed the issue where the Deterrence 2 quest could not be completed.",
+          "Fixed the firearm issues caused by using the Grip+A keys to detach attachments.",
+          "Fixed incorrect numerical displays in the UI for certain gunsmith benches.",
+          "Fixed the spread error for the BDP12 shotgun in BR mode."
+        ]
+      },
+      {
+        "name": "'''Changes'''",
+        "items": [
+          "Updated the text description for Shades for Boom.",
+          "Modified the content of The Gunsmith \u201cAttach\u201d quest and its subsequent unlock conditions."
+        ]
+      },
+      {
+        "name": "'''Additions'''",
+        "items": [
+          "Added exposure correction settings for PC."
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed an issue where medical item submission tasks could fail.",
+          "Fixed VD controller offset issue.",
+          "Fixed incorrect Gunsmith preset attachments.",
+          "Fixed a bug where bullets might not be carried into matches.",
+          "Adjusted some loot distribution.",
+          "Fixed missing text description for the attachment case.",
+          "Fixed some icon display errors.",
+          "Fixed an issue where the left hand could not grip certain MP5 rails.",
+          "Fixed incorrect ergonomic stats for the SECA16 lower receiver.",
+          "Fixed incorrect rear sight installation position on the PKP."
+        ]
+      },
+      {
+        "name": "'''Additions'''",
+        "items": [
+          "Added 2 Steam VR launch options DirectX11 and DirectX12"
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed quest long loading time into raid",
+          "Fixed hideout reloading issue"
+        ]
+      },
+      {
+        "name": "'''Full Wipe \ud83d\udd01'''",
+        "items": []
+      },
+      {
+        "name": "'''Game Content'''",
+        "items": [
+          "New Gunsmith System",
+          "Added Gunsmith shop and merchant.",
+          "Gunsmith merchant now offers research functionality.",
+          "Added a Gunsmith questline.",
+          "Added weapon paint customization.",
+          "Gunsmithing now supports automatic and manual assembly modes."
+        ]
+      },
+      {
+        "name": "'''Expanded Gunsmith system'''",
+        "items": [
+          "600+ attachments",
+          "54 lower receivers",
+          "14 attachment categories",
+          "100+ shop preset weapons",
+          "Firearms can now be freely customized with interchangeable parts.",
+          "Different barrels now affect damage, recoil, and bullet spread.",
+          "Combining optics and muzzle devices enhances battlefield adaptability."
+        ]
+      },
+      {
+        "name": "'''New Questlines'''",
+        "items": [
+          "Added Gunsmith questline.",
+          "Added Smuggling Tunnel questline.",
+          "Total quest count increased to 208."
+        ]
+      },
+      {
+        "name": "'''Weapons'''",
+        "items": [
+          "Some weapons are now grouped into weapon families, unlocking more modification options.",
+          "Added muzzle brakes and suppressors for the AK series.",
+          "Added two new G-33 scopes.",
+          "Enhanced durability damage and blunt trauma from bullets and grenades against armor.",
+          "Reduced armor penetration capability of M993 and SNB rounds.",
+          "Improved weapon muzzle flash FX.",
+          "Removed firing power influence on armor penetration.",
+          "All existing weapons have been dismantled and rebuilt.",
+          "New lower receivers added: M870-DM, M1A, RFB, Vector-9, Vector-45, P226, SA58, MP5K, MP5A4, Vpo-136, Akalpha, RD-704",
+          "Slightly increased threat of bullets and grenades against armor.",
+          "Helmets with skull faceplates now provide face protection (excluding eyes), scaling with helmet level."
+        ]
+      },
+      {
+        "name": "'''Combat & AI Adjustments'''",
+        "items": [
+          "limb damage distribution for AI, players, and training dummies.",
+          "Stomach damage multiplier increased to 1.5x.",
+          "AI arms are slightly weaker than player arms.",
+          "Separate adjustments for upper and lower limb damage reduction values.",
+          "Expanded weapon variety for low-level AI while reducing weapon strength."
+        ]
+      },
+      {
+        "name": "'''Systems & Quality of Life'''",
+        "items": [
+          "Added Quest rendering mode option: choose between Native and Space Warp.",
+          "Added sound effects when extracting.",
+          "Improved weapon firing visual effects.",
+          "Added convenient setup options at the start of the game.",
+          "Adjusted barter item requirements for certain weapons and high-tier ammo.",
+          "Multiple low-durability med injectors and suturing kits can now be exchanged for new ones.",
+          ".45 Tommy ammo is no longer in shops, now sold by Igor.",
+          "Adjusted quest item locks.",
+          "Reduced price of storage containers.",
+          "Added foliage density option on PC.",
+          "Added view distance option on PC.",
+          "Terminals now show available and active quests per map.",
+          "Added loot preview to map terminal.",
+          "Improved game logo screen presentation.",
+          "Redesigned game mode selection screen.",
+          "Optimized and rebalanced difficulty across maps.",
+          "Adjusted loot distribution across maps.",
+          "Revised rewards for weapon-related quests.",
+          "Added/adjusted quest item spawn positions.",
+          "Modified unlock requirements and quest progression order.",
+          "Adjusted reputation, XP, and item rewards for some quests.",
+          "Reworked certain quest objectives and descriptions.",
+          "Compass is now displayed by default in the menu.",
+          "Ammo crate storage increased to 600."
+        ]
+      },
+      {
+        "name": "'''Map Updates'''",
+        "items": [
+          "New Map: Smuggling Tunnel (Exfilzone).",
+          "Fixed floating vegetation in multiple regions.",
+          "Reworked map art for more realistic environments.",
+          "Optimized settlement structures in the northern regions.",
+          "Enhanced visuals for vegetation, rocks, and terrain.",
+          "Improved long-distance visuals of northern pine forests.",
+          "Enhanced wave effects.",
+          "New Settlements: Tanker Bar, Sewage Plant Site, Car Graveyard, Forest Villa, Hunter\u2019s Camp, Lumber Yard, Raider Camp, Checkpoint.",
+          "HQ Update: Structure rework, added Workshop."
+        ]
+      },
+      {
+        "name": "'''Battle Royale'''",
+        "items": [
+          "Updated the weapon recoil system.",
+          "Increased base and headshot damage of rifles and sniper rifles.",
+          "Reduced base damage of SMGs.",
+          "Adjusted overall player mobility.",
+          "Adjusted supply drop mechanics."
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Major and minor bug fixes"
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Log in and receive an additional 10mil in-game currency",
+          "Everything unlocked in trader stores (including items that are normally unlocked behind quests)",
+          "High-value loot spawn rate increased by 10%",
+          "Level 4 traders",
+          "All users are given $ 1,000,000 start of pre-wipe",
+          "Boss spawn rates are now 100%",
+          "Added 2 new posters teasing the upcoming Smuggling Tunnel map"
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed an issue causing a minority of players unable to join raids",
+          "Updated and improved backend (added 2025-08-13)"
+        ]
+      },
+      {
+        "name": "'''Changes'''",
+        "items": [
+          "Keys can be deposited in safe container"
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Going to tutorial will stop matching (Stop players using Metro ticket bug)",
+          "Backend fixes"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.11.0",
+    "date": "2025-07-25",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Added upgraded EAC support",
+          "Fixed the abnormal sound caused by HQ posters",
+          "Fixed the abnormal sound when airdrop land",
+          "Fixed the issue where multiple grips would affect recoil",
+          "Fixed a space bug in the safe containers"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.10.0",
+    "date": "2025-07-18",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''New Content'''",
+        "items": [
+          "Added posters as placeable items in HQ",
+          "Added flare gun and related tasks",
+          "Added UID display to the end-game interface",
+          "Added damage multiplier for bullets on already damaged limbs (Nerf)",
+          "Adjusted the grip angle of the SVT-40"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.9.0",
+    "date": "2025-06-20",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed an issue where reconnection after a disconnection might cause equipment loss."
+        ]
+      },
+      {
+        "name": "Weekend Event:",
+        "items": [
+          "Metro free weekend event"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.8.0",
+    "date": "2025-06-13",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed a duplication issue caused by disconnection and reconnection.",
+          "Fixed an issue where Resort could be glitched underground using a truck.",
+          "Fixed a duplication issue with the storage box.",
+          "Fixed an issue where Metro did not properly deduct tickets."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.7.0",
+    "date": "2025-05-26",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed a collision issue near the Police Station in Suburb."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.6.0",
+    "date": "2025-05-23",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''Content Optimization'''",
+        "items": [
+          "Added a prompt for when the kiosk storage is insufficient while claiming emails.",
+          "Modified the \"Big Guys\" task to require marking 3 tanks instead of 4, preventing players from needing to re-enter the map multiple times."
+        ]
+      },
+      {
+        "name": "'''Armor Adjustments'''",
+        "items": [
+          "Added chin protection to the OP High-Protection Helmet, now selectable at the shooting range.",
+          "Reduced the actual durability of the RYS-T Ballistic Helmet.",
+          "Adjusted the RYS-T Ballistic Face Shield protection level from 3 to 5 and reduced its actual durability.",
+          "Adjusted the ACH Ballistic Face Shield protection level from 5 to 4."
+        ]
+      },
+      {
+        "name": "'''Ammunition Adjustments'''",
+        "items": [
+          "7.62x39mm PS penetration increased from 3.1 to 3.3",
+          "7.62x39mm BP penetration increased from 4.5 to 4.6",
+          "5.45x39mm 7N40 penetration increased from 4.3 to 4.5",
+          "6.8x51mm Hybrid penetration increased from 4.5 to 4.8"
+        ]
+      },
+      {
+        "name": "'''Item Balance Adjustments'''",
+        "items": [
+          "Adjusted purchase prices, methods, stock, and required trader levels for some items.",
+          "RYS-T Face Shield: Changed to barter-only (1x Electric Drill + 1x Iodine), stock set to 3.",
+          "RYS-T Face Shield: Added purchase option, stock set to 2.",
+          "RYS-T: Added barter option (1x Climbing Rope + 1x Portable Medkit), stock set to 3.",
+          "RYS-T: Daily stock reduced from 99 to 2.",
+          "XM5: Added purchase option.",
+          "XM5: Barter stock increased from 1 to 6.",
+          "G3 Series 7.62x51 X-Drum 50-round (Black): Stock reduced from 4 to 2.",
+          "G3 Series 7.62x51 X-Drum 50-round (Green): Stock reduced from 4 to 2.",
+          "7.62x51mm M61 Ammo: Price increased to 31,995.",
+          "5.45x39mm BS: Barter item changed from Disk to Hammer.",
+          "SECA17 Mod.SSR 7.62x51 Assault Rifle: Stock increased from 1 to 6.",
+          "RYS-T \"Bonecrusher\" (BOSS drop): Price reduced to 12,623."
+        ]
+      },
+      {
+        "name": "'''Bug Fixes'''",
+        "items": [
+          "Fixed a duplication issue allowing items to be thrown out of the stash during settlement.",
+          "Fixed an issue where the M40A5 could be loaded with incorrect ammunition.",
+          "Fixed an issue where multiple Metro Tickets were deducted from the junk box.",
+          "Fixed an issue where bullets could be brought out of the shooting range during a power outage.",
+          "Fixed a wall-clipping bug in the Metro map.",
+          "Fixed a duplication issue caused by reconnection.",
+          "Fixed an issue where the Resort Bank sewer evacuation point key door could not be passed.",
+          "Fixed an issue allowing Medical Boxes, Attachment Boxes, and Ammo Boxes to be placed in the stash.",
+          "Fixed several UI display errors.",
+          "Fixed several inaccurate task descriptions.",
+          "Fixed abnormal scaling of Square Batteries, Notebooks, Tapes, and Blind Boxes in the stash.",
+          "Fixed potential errors in some item spawns."
+        ]
+      },
+      {
+        "name": "'''Map Content Fixes'''",
+        "items": [
+          "Suburb Fixes:",
+          "Bunker evacuation point: Fixed bunker gate getting stuck.",
+          "Bear Town Cake Shop opposite lumber pile: Players could enter and shoot outward.",
+          "Motel parking lot large screen barrier: Blocked bullets.",
+          "Supermarket backdoor wooden crate and wall gap: Trapped players.",
+          "Dam Fixes:",
+          "Dam map unfinished building first floor: Wooden plank gap trapped players.",
+          "Dam sewer pipe: Water pipe trapped players.",
+          "Metro Fixes:",
+          "Players getting stuck above the kitchen fridge.",
+          "Grid gate: Players could pass through.",
+          "Resort Fixes:",
+          "Park kiosk near the bank: Trapped players.",
+          "Resort river staircase wall lamp: Trapped players.",
+          "Resort fire station entrance iron sheet terrain: Trapped players.",
+          "Fire station second-floor corridor end: Jumping onto the vending machine allowed players to clip out of the building.",
+          "Jumping onto the cake shop truck: Players clipped underground.",
+          "Modern apartment second-floor chair: Trapped players.",
+          "Hospital window and flowerbed gap: Trapped players.",
+          "Bank second-floor key room: Rotating chair and wall gap trapped players.",
+          "Hill near hospital retaining wall: Players could enter and shoot outward.",
+          "Ice cream shop truck and dumpster gap: Trapped players.",
+          "Bank vault gate: Trapped players behind the door."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.5.0",
+    "date": "2025-05-12",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue where items from training mode could be brought out after entering training mode post-match.",
+          "Fixed an issue where items from the beginner tutorial could be brought out to the stash.",
+          "Attempted to fix an issue where players could abnormally obtain stash items in certain situations."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.4.0",
+    "date": "2025-05-09",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed incorrect bullet display on the ammo loader.",
+          "Fixed accuracy issues with the AKM series and SKS.",
+          "Fixed an issue where some HQ upgrades were not taking effect.",
+          "Fixed a duplication issue.",
+          "Fixed tasks that require to reach locations, server side update."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.3.1",
+    "date": "2025-05-08",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue where selling items did not deduct the items in certain situations.",
+          "Fixed text display issues on some pages.",
+          "Attempted to fix equipment loss caused by server crashes.",
+          "Fixed an issue where Metro did not consume tickets.",
+          "Fixed an issue where helmet accessories were being duplicated.",
+          "Fixed an issue where firearms could have multiple grips installed.",
+          "Fixed incorrect volume display for some medical items in the stash.",
+          "Fixed an issue where trackers could not be placed in the stash.",
+          "Fixed incorrect stats for the HK51K.",
+          "Fixed abnormal positioning of the bullet model in the Flame12 magazine.",
+          "Fixed an issue where some perks from facility upgrades were not taking effect.",
+          "Fixed an issue where item exchanges required teleporting to the kiosk.",
+          "Attempted to fix an issue where weapons might not aim properly."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.3.0",
+    "date": "2025-04-29",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue where certain bullets could be purchased incorrectly.",
+          "Fixed an issue where the task item camera caused abnormal collisions."
+        ]
+      },
+      {
+        "name": "New Content",
+        "items": [
+          "Added DLC Packs:",
+          "NTG Standard Issue",
+          "Johnny's secret stash",
+          "Steam store page:[https://store.steampowered.com/dlc/2719160]",
+          "Meta store page (go to Add-ons):[https://www.meta.com/en-gb/experiences/contractors-showdown-exfilzone/4963431797114722/#addons]"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.2.1",
+    "date": "2025-04-28",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue where items could be duplicated in the kiosk.",
+          "Fixed task description errors."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.2.0",
+    "date": "2025-04-28",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue where too many items in the terminal caused the quest game to fail to start properly.",
+          "Fixed an issue where the resort task could not locate the station."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.1.0",
+    "date": "2025-04-27",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed task description errors.",
+          "Fixed incorrect pricing configuration for advanced bullets.",
+          "Fixed incorrect pricing configuration for associated items.",
+          "Fixed item duplication.",
+          "Fixed items purchased in the store but not claimed disappearing after entering and exiting a match.",
+          "Fixed player equipment disappearing upon entering the game when switching hideout floors during match loading.",
+          "Fixed items being placed outside the backpack when rapidly placing them inside.",
+          "Fixed the safe container disappearing if taken out and not stored back.",
+          "Fixed air wall blocking entry after opening the airdrop door.",
+          "Fixed incorrect description for the suture kit on scavs.",
+          "Fixed locked double doors in the Dam locked room."
+        ]
+      },
+      {
+        "name": "Map and Environment Fixes",
+        "items": [
+          "Fixed players falling through the ground when picking up items in the Resort lighthouse.",
+          "Prevented entry into the Hospital locked room by jumping and climbing from outside.",
+          "Prevented access to the 3rd floor in the westernmost city area.",
+          "Fixed players getting trapped in the second-floor left restroom stall at the hospital emergency department main entrance.",
+          "Fixed players getting trapped in a spot within the bank tunnel connecting to the vault.",
+          "Fixed players getting trapped on the hotel second-floor staircase when walking close to the wall.",
+          "Fixed players getting trapped with no exit when approaching a small newspaper stand across the road from the Golden Resort Hotel.",
+          "Fixed overly bright window shards.",
+          "Fixed complex collision on merged flowerbeds trapping player feet.",
+          "Fixed missing collision on the circular sign in the bank lobby.",
+          "Added collision to the bank restroom toilet."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.0.1",
+    "date": "2025-04-25",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed armor attached to backpacks disappearing when changing scenes.",
+          "Fixed HQ upgrades not consuming required items.",
+          "Fixed items not being retrievable from the safe during a match.",
+          "Fixed gas pipe pliers not being sellable, which caused game crashes.",
+          "Fixed Resort 208 key description incorrectly showing as 202 key.",
+          "Fixed issue where task items could not be submitted.",
+          "Fixed safe items not being retrievable after reconnecting from a disconnect.",
+          "Fixed various text errors."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.0.0",
+    "date": "2025-04-24",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Full Wipe \ud83d\udd01",
+        "items": []
+      },
+      {
+        "name": "Maps",
+        "items": [
+          "Resort: A new map designed with a focus on urban combat.",
+          "Metro: Now requires an entrance card, obtainable through raids or purchasable from traders.",
+          "Air Drops: Added to the maps Suburb, Dam, and Resort."
+        ]
+      },
+      {
+        "name": "New Feature: Safe Container",
+        "items": [
+          "Functionality: Items stored in the safe container, including the container itself, will not drop upon death.",
+          "Equipping: Can be equipped at HQ via the relevant terminal on the lower back.",
+          "Obtaining: The initial safe container can be acquired by completing merchant tasks."
+        ]
+      },
+      {
+        "name": "HQ Function Adjustments",
+        "items": [
+          "Storage Space Redesign:",
+          "Weapon Wall: Now supports mounting armor, helmets, and backpacks, but cannot hold accessories.",
+          "Shelves: Helmets, backpacks, and armor can no longer be placed on regular shelves.",
+          "Keyboard: A new key board has been added.",
+          "Dedicated Storage Boxes: Added new storage options:",
+          "Medical storage box",
+          "Accessory storage box",
+          "HQ Map Redesign:",
+          "New upgradeable perks have been introduced.",
+          "Some facility upgrades have been transferred or merged.",
+          "Store Purchasing Experience Optimization:",
+          "Associated Purchases: New feature for related item purchases.",
+          "Direct Shipping: Added for streamlined delivery.",
+          "Magazine Purchases: When buying magazines, you can now simultaneously purchase bullets.",
+          "Inbox Redesign:",
+          "Mail System: Pre-quest items and rewards will now be sent via mail to the inbox.",
+          "Temporary Storage: A new temporary storage area has been added to the inbox.",
+          "Career Stat Page: A new career stat page has been introduced.",
+          "Ammo Loader: Now includes an unloading function."
+        ]
+      },
+      {
+        "name": "Weapon-Related Updates",
+        "items": [
+          "New Parameter:",
+          "Accuracy (MOA): Measured in Minute of Angle (MOA). Weapons will exhibit random bullet spread at long distances based on their accuracy rating.",
+          "New Interactions:",
+          "HK Slap: For weapons like MP5, Evo3, G3, PSG, etc., when the charging handle is locked back, quickly hitting it with your hand releases the handle.",
+          "AR Bolt Release Slap: For AR-type weapons, when the bolt is locked, quickly hitting the bolt catch with your hand releases the bolt.",
+          "Manual Bolt Lock: When pulling back the bolt, hold the B/Y key while releasing the charging handle to manually lock the bolt.",
+          "Accessory Installation: Optimized the prompt effect for accessory installation positions during assembly.",
+          "New Firearms:",
+          "G3 7.62x51 Assault Rifle A3",
+          "G3 7.62x51 Assault Rifle HK91",
+          "G3 7.62x51 Assault Rifle AK4",
+          "G3 7.62x51 Assault Rifle SPUHR",
+          "G3 7.62x51 Assault Rifle PRS",
+          "G3 7.62x51 Assault Rifle HK51",
+          "G3 7.62x51 Assault Rifle HK51-K",
+          "G3 7.62x51 Assault Rifle HK51 ACE",
+          "PSG-1 7.62x51 Designated Marksman Rifle",
+          "New Accessories:",
+          "Falcon Scope 1.5-6X (for G3 series)",
+          "G3 Scope Rail BT3",
+          "G3 Scope Rail High Lever",
+          "G3 Scope Rail FAB",
+          "G3 Series 7.62x51 Mag (10-round)",
+          "G3 Series 7.62x51 Mag (20-round)",
+          "G3 Series 7.62x51 Mag (30-round)",
+          "G3 Series 7.62x51 X-Drum (50-round, black)",
+          "G3 Series 7.62x51 X-Drum (50-round, olive)",
+          "PSG-1 Scope Rail",
+          "Taco Scope 6-42X (for PSG-1)",
+          "Removed Weapon:",
+          "G3 7.62x51 Assault Rifle SG1",
+          "Armor Optimization: Improved the feel of attaching various pouches to armor."
+        ]
+      },
+      {
+        "name": "New Characters and Bosses",
+        "items": [
+          "Initial Female Characters: 2 new female characters added.",
+          "New Bosses: 3 new bosses introduced."
+        ]
+      },
+      {
+        "name": "Mission Updates",
+        "items": [
+          "Mission Adjustments:",
+          "Total mission count increased from 96 to 150 with updated arrangements.",
+          "New Mission Types:",
+          "Photo Missions: Use a special device to photograph specific targets.",
+          "Placement Missions: Locate a delivery spot in the scene and place specific mission items.",
+          "Specific Equipment Kills: Eliminate targets using specific equipment or clothing combinations."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.9.0",
+    "date": "2025-04-11",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "New Content",
+        "items": []
+      },
+      {
+        "name": "Beer Festival Event:",
+        "items": [
+          "Unlocks player shop level (All traders lvl 4)",
+          "Discounted shop items",
+          "HQ upgrade materials replaced with beer",
+          "Killing scavs now drops beer (2 new special beers)",
+          "Bosses having Burgers and Beers in Trupiks"
+        ]
+      },
+      {
+        "name": "Adjustments",
+        "items": [
+          "Decoupled Scope Assist and Weapon Smooth functions"
+        ]
+      },
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue where grenades could be thrown through walls",
+          "Fixed abnormal collision in one building",
+          "BR: Fixed abnormal sound effects for the AK water gun skin"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.8.0",
+    "date": "2025-03-27",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Optimized matching rules (matchmaking)",
+          "Fixed a duplication issue with HQ",
+          "Fixed an abnormal recoil issue caused by interactions between firearms and backpacks"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.7.0",
+    "date": "2025-03-14",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "New Features",
+        "items": [
+          "Added Streamer Mode (will be available for content creators in our future program)",
+          "Optimized stuttering issues when entering the store area"
+        ]
+      },
+      {
+        "name": "Content Adjustments",
+        "items": [
+          "Adjusted the protective areas of armor appropriately",
+          "Adjusted the operational difficulty of frag grenades appropriately",
+          "Adjusted the damage calculation of frag grenades to the head",
+          "Adjusted the price of frag grenades",
+          "Adjusted the spawn probability of frag grenades",
+          "Added daily purchase refresh for frag grenades"
+        ]
+      },
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed a bug where items could not be exchanged using the junk box",
+          "Fixed an issue where too many items caused abnormal game startup",
+          "Attempted to fix an issue with abnormal aiming in certain scopes",
+          "Fixed the abnormal positioning of the magazine for Battle Royale HQ weapons",
+          "Fixed 'Fatal error' for PCVR users (Meta PCVR and SteamVR)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.6.1",
+    "date": "2025-03-04",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed shelf duplication issue.",
+          "Fixed weapon attachment duplication issue.",
+          "Fixed ammo pouch duplication issue."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.6.0",
+    "date": "2025-02-27",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "New Features",
+        "items": [
+          "Added a gift redemption interface to the kiosk (Receiving items from special events, etc.)."
+        ]
+      },
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue where equipment duplication could occur in the kiosk.",
+          "Resolved an issue where equipping multiple attachments could cause abnormal recoil.",
+          "Fixed a bug where equipping certain attachments might prevent the flashlight from being toggled on/off properly (activation is now on trigger)."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.5.0",
+    "date": "2025-01-23",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "New Feature:",
+        "items": [
+          "Implemented \"Raid Reconnection\", Players can connect back to a raid if get disconnected abnormally"
+        ]
+      },
+      {
+        "name": "Bug Fixes and Improvements:",
+        "items": [
+          "Fixed SECA17 SSR Sight attachment installation issue",
+          "Fixed SECA16, P250, Mosin OBREZ and MP5 attenuation issue",
+          "Fixed Scope rendering issue when entering in and out the shooting range",
+          "Fixed an item duplication bug related to the Item Kiosk",
+          "Fixed Mission: \"Taste of life 2\", quest item duplication issue",
+          "Fixed Ammo stacking incorrect issue",
+          "Improved Mosin and SVT40 sound effect"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.4.0",
+    "date": "2025-01-17",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "New Content",
+        "items": [
+          "AUG A3 9x19 Para SMG Olive",
+          "AUG A1 STG77 5.56x45 Assault Rifle Olive",
+          "AUG A3 STG77 5.56x45 Assault Rifle FDE",
+          "A3 CQB 5.56x45 Assault Rifle FDE",
+          "AUG A3 RIS 5.56x45 Assault Rifle Black",
+          "Mosin-91/30 7.62x54R Bolt-Action Sniper Rifle",
+          "Mosin M38 7.62x54R Bolt-Action Carbine Rifle",
+          "Mosin \"Obrez\" 7.62x54R Bolt-Action Pistol",
+          "SVT-40 7.62x54R Semi-Automatic Rifle",
+          "CA Ironsight FFS Black",
+          "CA Ironsight FFS FDE",
+          "CA Ironsight FFS Olive",
+          "CA Ironsight FRS Black",
+          "CA Ironsight FRS FDE",
+          "CA Ironsight FRS Olive",
+          "AUG 5.56x45 Muzzle Adapter",
+          "AUG 9x19 MP88 Mag (25-Round) (Compatible with Universal Pouch, Mag Pouch Large, Mag Pouch Medium, Mag Pouch Small, Faster Rifle Mag Holster)",
+          "AUG 5.56x45 Mag (30-Round) (Compatible with Universal Pouch, Mag Pouch Large, Mag Pouch Medium, Faster Rifle Mag Holster)",
+          "AUG 5.56x45 Mag (42-Round) (Compatible with Universal Pouch, Mag Pouch Large, Mag Pouch Medium, Faster Rifle Mag Holster)",
+          "SVT-40 7.62x54R Mag (10-Round) (Compatible with Universal Pouch, Mag Pouch Large)",
+          "Mosin PU 3.5X Scope (For Mosin-91/30 Bolt-Action Sniper Rifle)",
+          "SVT PU 3.5X Scope (For SVT-40 Semi-Automatic Rifle)"
+        ]
+      },
+      {
+        "name": "Map Updates",
+        "items": [
+          "Suburb",
+          "Added terrain elevation to central farmland, reducing flat areas and adding cover.",
+          "New areas",
+          "Improved lighting visuals inside the shopping mall.",
+          "Minor loot adjustments in various locations, including the shopping mall.",
+          "Added new tasks related to these areas.",
+          "Dam",
+          "Improved visibility along the east-west road at the harbor.",
+          "Fixed an issue where an excessive amount of loot spawned in certain areas.",
+          "Minor loot adjustments in various locations.",
+          "Metro",
+          "Redesigned certain transparent windows.",
+          "Prevented items in bomb rooms from being looted through walls.",
+          "Reduced grenade spawns.",
+          "Increased spawn rates for Malyuk 7.62 in the \"Officer's Room\" key room.",
+          "Improved loot quality in the \"Data Storage\" key room.",
+          "Adjustments",
+          "Ammo Extraction: Added the ability to remove bullets from magazines by holding the \"B\" key.",
+          "End Screen: Redesigned the post-match results screen.",
+          "SCAV Cooldown: Now calculated after match completion.",
+          "Slightly increased item spawn rates in high-tier crates.",
+          "Added cover to certain extraction points.",
+          "Improved collision for scopes and some attachments.",
+          "Adjusted flashlight brightness to fix overexposure."
+        ]
+      },
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "General",
+          "Fixed duplication bugs with conveyor belts and reloading machines.",
+          "Fixed an issue where jumping during extraction could cause players to fall through the map.",
+          "Fixed a bug allowing players to see through walls.",
+          "Fixed a bug causing the LH250 helmet visor to duplicate.",
+          "Fixed abnormal behavior with long-distance display of password doors.",
+          "Fixed issues with weapon firing power not affecting unarmored areas.",
+          "Fixed attachment misplacement on grip slots causing clipping issues.",
+          "Fixed laser visibility issues when aiming at long distances.",
+          "Resolved missing kill and bullet information in the end screen.",
+          "Fixed armor durability always showing 60/60 in the shop.",
+          "Suburb",
+          "Fixed floating and clipping models.",
+          "Fixed terrain issues west of the motel causing movement problems.",
+          "Fixed lighting issues in certain buildings.",
+          "Fixed gaps in some mall models.",
+          "Resolved issues where players could get stuck in certain areas.",
+          "Dam",
+          "Fixed terrain issues causing players to fall out of the map.",
+          "Fixed sliding slope issues allowing players to clip into models.",
+          "Fixed a cliff corner near the power station where players could enter terrain.",
+          "Fixed invisible walls blocking bullets in some areas.",
+          "Fixed incorrect floor collision in the medical area.",
+          "Resolved ceiling clipping issues allowing players to see upper floors.",
+          "Fixed an issue where having too many items in the backpack could cause the game to freeze."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.3.1",
+    "date": "2025-01-09",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "New Features",
+        "items": [
+          "Added interface notifications and sound alerts for friend game invites and messages."
+        ]
+      },
+      {
+        "name": "Changes",
+        "items": [
+          "Shooting range is now disabled when in a party.",
+          "Adjusted the weight of an item: Silver Cup: 12kg \u2192 2.2kg.",
+          "Improved descriptions for more accurate location information in English contexts.",
+          "Adjusted attenuation distance and volume for painkiller and loot box opening sound effects."
+        ]
+      },
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue where players could fall through the ground near extraction points.",
+          "Fixed an issue where mission items could not be submitted correctly.",
+          "Fixed a text display error on collectible figure boxes.",
+          "Fixed incorrect sell prices for certain bullets.",
+          "Fixed a bug where upgrading the Intelligence Center to Level 3 caused the MICA item price-checking feature to disappear.",
+          "Fixed an incorrect preview image for the NTG mission medical report submission item.",
+          "Fixed UI display issues in the French localization where text exceeded limits in the mailbox interface.",
+          "Fixed a display error when the number of graphics cards in the Mine was zero."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.3.0",
+    "date": "2025-01-03",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Removed Christmas Event",
+          "Fixed Floating Issues: Resolved floating objects in MICA maps.",
+          "Increased Boss Spawn Rate: Boss spawn rate increased in Metro.",
+          "Door Visibility: Fixed doors in Map 3 that were not displaying properly.",
+          "Mission Display: Addressed an issue where in-game missions failed to display most of the time.",
+          "Adjustments",
+          "Update Weapon",
+          "Bug Fixes",
+          "MS2000 Marker:",
+          "Fixed missing collisions between the recycling station conveyor belt and some objects.",
+          "Weapon State Memory: Fixed an issue where the G3, G18C, SECA, and P250 did not retain their loaded state.",
+          "Dam Map: Fixed a clipping issue with one crate.",
+          "Metro Map:",
+          "Key Room Issues:",
+          "Map Fixes",
+          "Vaulting Fixes"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.1.2",
+    "date": "2024-12-27",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Bullet Duplication: Fixed duplication issues related to ammo boxes.",
+          "Door Scaling: Resolved abnormal scaling issues with certain doors.",
+          "MXAKM: Fixed a bug where magazine positions were incorrect when returning to the Hideout under specific conditions.",
+          "Raise to sprint: Implemented the ability to raise the weapon to active sprint, previously unavailable in Exfilzone.",
+          "Weapon Smoothness: Fixed an issue where the \"weapon smooth\" setting caused weapons to move sluggishly.",
+          "AI Equipment and Distribution: Adjusted Metro AI equipment and slightly reduced the number of Suburban AI enemies.",
+          "Sellable Items: Fixed issues preventing RC416, M4A1 \"Agent,\" and UMP45 from being sold.",
+          "Trash Can: Resolved a bug where small items like bullets couldn't be destroyed in trash cans.",
+          "Shotgun Ammo: Fixed issues where independent shotgun ammo could not be sold.",
+          "Shotgun State Persistence: Fixed issues with the M1897, Sjogren, and M590SG shotguns where chambered and loaded states were not saved between sessions.",
+          "Ammo Loader Interaction: Adjusted interaction angles for ammo loaders in the warehouse and shooting range for easier operation.",
+          "Armor Repair Machine: Fixed an issue where the repair button became unclickable if the hand model was positioned too deeply into the machine.",
+          "Sjogren Shotgun: Fixed a bug where a purchased Sjogren shotgun would default to having a round already chambered.",
+          "Shooting Range Equipment: Added test armor and helmets (including Christmas event items) to the shooting range loadout menu.",
+          "Extraction Timer: Fixed incorrect display of extraction times.",
+          "OCP-7 Scope: Resolved alignment issues with the OCP-7 sight."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.1.1",
+    "date": "2024-12-25",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue where junk boxes could potentially duplicate items.",
+          "Fixed an issue where the Christmas-themed water bottle could not be refilled.",
+          "Attempted to address the fatal error crash issue."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.1.0",
+    "date": "2024-12-24",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Christmas Event",
+        "items": [
+          "Christmas Decorations: Enjoy holiday-themed decorations in your Hideout to get into the festive spirit.",
+          "Special Mission: Take on a limited-time Christmas mission with unique rewards.",
+          "Special Hunting Squad: A challenging hunting squad has appeared in the Dam area\u2014defeat them for exclusive loot!"
+        ]
+      },
+      {
+        "name": "New Features & Adjustments",
+        "items": [
+          "Added \"Select All\" option for the basement vendor interface.",
+          "The ammo reloading machine's storage space has been moved to a new table. The original table now cannot store items.",
+          "Blind boxes (little figurine box) can now be opened and sold directly in the Hideout."
+        ]
+      },
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue where storage racks had duplicate IDs.",
+          "Resolved an issue where mission items could not be submitted.",
+          "Fixed duplication bugs for graphics cards and ammunition.",
+          "Addressed a crash caused by certain shotguns.",
+          "Fixed an issue where laser sights would render the inbox unusable.",
+          "Resolved task list refresh issues.",
+          "Fixed interaction issues between two junk boxes, where only the box with the higher required item count would be recognized during delivery.",
+          "Fixed an issue where items could be grabbed through walls.",
+          "Addressed synchronization issues with secret room doors.",
+          "Corrected errors in task location descriptions.",
+          "Resolved an issue where bombs would occasionally disappear on their own.",
+          "Fixed a bug where empty fuel canisters could allow players to gain speed boosts.",
+          "Corrected hand texture issues in \"Hands Only\" mode when picking up and dropping phones.",
+          "Fixed a bug where SECA16 rifles would disappear when placed on the ground.",
+          "Resolved an issue preventing the installation of scopes after laser sights were installed.",
+          "Fixed a bug where uncapped AKs could equip suppressors in incorrect positions.",
+          "Resolved collision issues for weapons like the M3A1 when holstered at the waist.",
+          "Fixed an issue where purchasing shotgun ammo would result in receiving two sets instead of one."
+        ]
+      },
+      {
+        "name": "Balance Changes",
+        "items": [
+          "Improved the armor protection angle to cover chest areas that previously lacked protection.",
+          "Reduced the firing volume of the Sj\u00f6gren shotgun.",
+          "Adjusted the attributes of 5.56x45mm M995 rounds: decreased penetration level and armor damage, increased base damage (to align with the Christmas event's free ammo giveaway).",
+          "Fixed an issue where the Rampage OD armor would clip through the ground.",
+          "Adjusted shop prices for ammo pouches, helmets, medical syringes, and fuel canisters.",
+          "Resolved a bug preventing bombs from being sold."
+        ]
+      },
+      {
+        "name": "Miscellaneous Updates",
+        "items": [
+          "Reduced the grab detection range for limb repair kits.",
+          "Increased the drop rate for high-quality weapons.",
+          "Decreased the drop rate for blind boxes."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.0.1",
+    "date": "2024-12-21",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Prevent body leaning while looking down",
+          "Increased foot step attenuation radius by a little",
+          "Adjusted body armor location, now it's easier to grab things while looking down",
+          "\"Fatal Error\" issue is being investigated"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.0.0",
+    "date": "2024-12-19",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Full Wipe \ud83d\udd01",
+        "items": []
+      },
+      {
+        "name": "New Features",
+        "items": [
+          "Tutorial Area: Added a tutorial area accessible through the main menu.",
+          "Tactical Leaning: Implemented tactical leaning mechanics.",
+          "Backup Supply: Merchants now offer a low-cost, time-limited basic equipment set.",
+          "JOHNNY Merchant: Weekly high-value buybacks for specific items.",
+          "Armor & Helmet Settings: Added a setting to unequip armor and helmets using a combination key.",
+          "Default Item Grab Sound: Added a default sound effect for grabbing items.",
+          "Locked Item Info: Clicking on locked items now displays the unlock conditions."
+        ]
+      },
+      {
+        "name": "Adjustments:",
+        "items": [
+          "Audio Rework:",
+          "Reworked weapon, footstep, and Metro audio attenuation.",
+          "Performance:",
+          "Increased Quest 2 performance compared to the Alpha Test version.",
+          "UI Visibility:",
+          "Hunger, thirst, and carrying capacity now only display when their status changes.",
+          "Localization:",
+          "Filled in missing translations for all languages.",
+          "Scavenger Mode:",
+          "No longer inherits hideout health settings from Contractors mode.",
+          "Hideout Adjustments:",
+          "Structural changes to Hideout layout.",
+          "Ammo reloading and armor repair unavailable during power outages.",
+          "Food Interaction:",
+          "Improved interaction experience.",
+          "Food disappears after consumption (except refillable bottles).",
+          "Faster recovery after consuming food.",
+          "Map Changes:",
+          "Updated BR and EZ MICA maps, adjusted some mini-map location names.",
+          "Audio:",
+          "Adjusted death sound effects.",
+          "Merchant UI:",
+          "Improved display in the merchant purchase screen.",
+          "Delivery Kiosk UI:",
+          "Enhanced Item Delivery Kiosk UI display.",
+          "Ammo Adjustments:",
+          "Fixed incorrect collisions for 9x19 and .45 ACP bullets.",
+          "Weapon Stats:",
+          "Added detailed attributes for weapons, ammo, and grenades."
+        ]
+      },
+      {
+        "name": "Balancing:",
+        "items": [
+          "Hideout Facilities:",
+          "Adjusted material requirements, prices, and levels.",
+          "Reduced the quantity of some required materials.",
+          "Experience:",
+          "Modified overall player experience progression.",
+          "Adjusted experience required per level.",
+          "Loot Distribution: Rebalanced item distribution for better scavenging.",
+          "Shop Pricing:",
+          "Adjusted weapon, attachment, and ammo prices.",
+          "Modified recycling prices for certain items.",
+          "Boss Adjustments:",
+          "Reduced boss spawn rates (no longer 100%).",
+          "Tweaked police station boss equipment.",
+          "Item Unlocks:",
+          "Revised unlock conditions for some items.",
+          "Adjusted item exchange requirements.",
+          "Weapon Recoil: Reconfigured weapon recoil and attachment bonuses.",
+          "Armor Durability: Slightly reduced bullet damage to armor durability."
+        ]
+      },
+      {
+        "name": "Bug Fixes:",
+        "items": [
+          "Fixed Scav players spawning together.",
+          "Resolved issues caused by disconnections affecting equipment, missions, and friend lists.",
+          "Fixed duplication of equipment.",
+          "Addressed anomalies with removing items from junk boxes.",
+          "Fixed item refresh issues in the \"Sell\" interface.",
+          "Resolved truck marking issues in the \"Where Did The Trucks Go\" mission.",
+          "Fixed grenades colliding with UI and causing nearby explosions.",
+          "Corrected issues with unsellable items.",
+          "Fixed Sjogren shotgun slug spread behavior.",
+          "Resolved red dot sights' zeroing issues.",
+          "Adjusted PKP sight positioning with rail attachments.",
+          "Fixed overlapping items in ammo pouches and painkillers.",
+          "Addressed issues with storing and stacking certain items.",
+          "Corrected misspelled letters on the server room door sign.",
+          "Fixed hand texture issues in Hand-Only mode.",
+          "Resolved spacing inconsistencies between certain armor and holsters.",
+          "Fixed clipping issues with equipment worn by certain bots.",
+          "Addressed collision bugs with specific attachments in BR mode."
+        ]
+      },
+      {
+        "name": "Map Adjustments:",
+        "items": [
+          "Resolved visual clipping issues across the map.",
+          "Fixed a bug causing players to get stuck near the Motel windows.",
+          "Addressed an issue where players could get trapped in rock crevices above the northern tunnel at the mall.",
+          "Corrected a clipping issue at the underground extraction point near the black market."
+        ]
+      },
+      {
+        "name": "Environment Fixes:",
+        "items": [
+          "Fixed overly bright glass railings in the mall.",
+          "Resolved obstruction issues on the second-floor staircase of the office building near the motel.",
+          "Fixed a bug where players could get stuck after jumping off the cliff north of the dam.",
+          "Addressed an issue with players getting trapped on the outer wall fence of the police station in Hyder Town."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "No version number",
+    "date": "2024-12-14",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Gun shooting sound changes",
+          "Fixed 'Eilte ops' back back storage issue",
+          "Fixed attachment issue on certain backpacks",
+          "Other small bug fixes"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "No version number",
+    "date": "2024-12-13",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Improved audio (weapons, directional etc)",
+          "Fixed floating backpack and weapon issue",
+          "Redo lighting on Suburb and Dam",
+          "Fixed mall lighting",
+          "Hideout unlock progression adjustment",
+          "Adjustment hideout perks",
+          "UI adjustment",
+          "Health status remains after exfil (use terminal near trader to restore to full)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "No version number",
+    "date": "2024-12-10",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue where grenades in the backpack did not collide with other grenades.",
+          "Fixed an issue where grenades in the backpack could collide with the player\u2019s body under certain circumstances.",
+          "Slightly reduced the hit probability of grenades on body parts at close range (10m).",
+          "Increased the friction when grenades land on the ground.",
+          "Fixed an issue where the Sj\u00f6gren, M1897, M590, and Mosin could load any type of ammunition.",
+          "Fixed an issue where hats could equip night vision goggles and face masks.",
+          "Removed the pistol rail attachment permission for the P250.",
+          "Adjusted HQ storage.",
+          "Fixed an issue where strange collision sounds could sometimes be heard in the game.",
+          "Fixed an issue where map markers would sometimes be placed inaccurately"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "No version number",
+    "date": "2024-12-08",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Full Wipe \ud83d\udd01",
+        "items": [
+          "Optimized queueing performance",
+          "Optimized server performance for hideout stashing.",
+          "Fixed party members unable to click Ready bug.",
+          "Fixed hand only incorrect textures",
+          "Optimized attachment rail interactions"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "No version number",
+    "date": "2024-12-07",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue that could cause server crashes.",
+          "Fixed a problem where BR weapons might get mixed up with ExfilZone weapons.",
+          "Attempt to fix a bug where mission status could become incorrect after reconnection.",
+          "Fixed an item duplication issue in Scav mode.",
+          "Fixed a bug causing the screen to black out after using flashbangs.",
+          "Added region selection for matchmaking (Please use this for better server connection)",
+          "Added matchmaking status display on the HUD."
+        ]
+      }
+    ]
+  }
+]
