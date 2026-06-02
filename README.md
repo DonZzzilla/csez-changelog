@@ -1,23 +1,12 @@
-# 🔫 CSEZ Changelog
+# CSEZ Changelog — Contractors Showdown ExfilZone
 
-Full patch history with build numbers for **Contractors Showdown ExfilZone**, auto-synced from the [official wiki](https://csez.miraheze.org/wiki/Changelog).
+Auto-synced from [csez.miraheze.org/wiki/Changelog](https://csez.miraheze.org/wiki/Changelog) via Zzzilla Discord bot.
 
-## 📊 Stats
+When a new patch is forwarded to `#csez_updates` on Discord, the bot automatically:
+- Extracts the build number from the forwarded notes
+- Updates `Template:Version` on the CSEZ wiki (via ZeroSkills)
+- Regenerates this HTML changelog and pushes to GitHub Pages
 
-- **71 patch entries** from 2024-12-07 to present
-- **Current build:** 1.6.8.0
-- **Game phase:** Open Alpha
-
-## 🌐 View
-
-Browse the full changelog: [DonZzzilla.github.io/csez-changelog](https://DonZzzilla.github.io/csez-changelog)
-
-## 📡 RSS Feed
-
-Subscribe to updates: `https://Donzzzilla.github.io/csez-changelog/feed.xml`
-
-## 📁 Files
-
-- `index.html` — Full browsable changelog with search
-- `changelog.json` — Raw structured data
-- `feed.xml` — RSS feed of latest updates
+**Live site:** https://donzzzilla.github.io/csez-changelog/  
+**RSS feed:** https://donzzzilla.github.io/csez-changelog/feed.xml  
+**Discord:** Forward patch notes to `#csez_updates` on Zzzilla Island
