@@ -1,5 +1,35 @@
 [
   {
+    "version": "1.6.10.0",
+    "date": "2026-06-19",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Added an in-game event 'Merchant Commissions' \u2014 7 days of rewards",
+          "Fixed an issue where equipment could not be brought into Training Mode",
+          "Fixed performance issues caused by water reflections in the PC build",
+          "Fixed poster placement/distribution",
+          "Fixed an issue where players could hide beneath the water surface"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.9.0",
+    "date": "2026-06-03",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue where reconnection was abnormal during PVE co-op."
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.6.8.0",
     "date": "2026-06-01",
     "category": "Alpha",
