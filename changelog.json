@@ -1,5 +1,36 @@
 [
   {
+    "version": "1.6.12.0",
+    "date": "2026-07-02",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Added a new DLC.",
+          "  - Added the Revolver DLC (RSH-12).",
+          "  - Added a new DLC character.",
+          "  - Added the DLC mission series.",
+          "Added the Leopard Global Security mission series.",
+          "Added a new sign-in event.",
+          "Added Grenade Cases and Dog Tag Cases.",
+          "Expanded the HQ area.",
+          "Added a Colorblind Crosshair Mode, available in the Settings menu.",
+          "Added the Aegis armor restore spray.",
+          "Updated the first-person weapon sound effects for the AK-74 series (AK-74, AK-74M, and AKS-74UN).",
+          "Adjusted Dog Tags to drop near the shoulders of fallen characters.",
+          "Fixed an issue where players could see through walls using the phone.",
+          "Fixed some issues that could cause players to get stuck on the Suburb map.",
+          "Fixed some collision issues on the Dam map.",
+          "Optimized performance in certain map areas when viewed from specific angles.",
+          "Fixed some distant-object rendering issues.",
+          "Fixed collision issues at extraction points and optimized the performance of extraction point models.",
+          "Optimized the matchmaking rules."
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.6.11.0",
     "date": "2026-06-26",
     "category": "Alpha",
@@ -28,7 +59,7 @@
       {
         "name": "Changes",
         "items": [
-          "Added an in-game event 'Merchant Commissions' \u2014 7 days of rewards",
+          "Added an in-game event 'Merchant Commissions' — 7 days of rewards",
           "Fixed an issue where equipment could not be brought into Training Mode",
           "Fixed performance issues caused by water reflections in the PC build",
           "Fixed poster placement/distribution",
@@ -116,7 +147,7 @@
           "Fixed an issue where the number of hideout renovations exceeded the total count.",
           "Fixed texture/model issues with the Tbeast CB Cover suppressor.",
           "Fixed collision issues with some miscellaneous items.",
-          "Fixed an issue where the flare gun\u2019s collision size was too large.",
+          "Fixed an issue where the flare gun’s collision size was too large.",
           "Fixed some UI overlap issues.",
           "Fixed an issue where, when using controller forward movement, the controller offset did not affect movement direction detection."
         ]
@@ -137,7 +168,7 @@
           "Fixed an issue where the Elite scav optic could be duplicated infinitely.",
           "Fixed an issue where rewards could not be claimed because they exceeded the weight limit.",
           "Fixed an issue where research missions could cause the Hideout to restart.",
-          "Fixed an issue where the mission \u201cRecord Left Behind\u201d did not properly generate the required mission item.",
+          "Fixed an issue where the mission “Record Left Behind” did not properly generate the required mission item.",
           "Fixed a series of inaccurate mission descriptions.",
           "Fixed an issue where the hand material was incorrect on the new Hand Only model.",
           "Fixed an issue where cash items could not be extracted properly.",
@@ -148,7 +179,7 @@
           "Adjusted abnormal collision on some items.",
           "Adjusted the storage angle of some items inside safes.",
           "Adjusted the position of the Hideout data panel.",
-          "Fixed an issue where some players\u2019 match records were not saved correctly, causing maps to remain locked."
+          "Fixed an issue where some players’ match records were not saved correctly, causing maps to remain locked."
         ]
       }
     ]
@@ -264,7 +295,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Full Wipe \ud83d\udd01'''",
+        "name": "'''Full Wipe 🔁'''",
         "items": []
       },
       {
@@ -327,16 +358,16 @@
           "Reduced bleed chance for all ammunition by 50%",
           "Reduced penetration power of 7.62x54R SP rounds from 2.8 to 2.1",
           "Separated the volume of enemy and player footsteps; re-balanced footstep sounds on grass and mud surfaces",
-          "Reworked backpack capacities and removed the Elite Ops Backpack\u2019s ability to carry armor",
+          "Reworked backpack capacities and removed the Elite Ops Backpack’s ability to carry armor",
           "Adjusted stock and prices of armor, backpacks, and other protective gear in the shop",
           "Adjusted ammunition prices and shop stock",
           "Adjusted unlock levels and requirements for some ammo and armor",
           "Adjusted starting stash items",
-          "Optimized helmet protection zone calculations based on each helmet\u2019s visual model, fixing issues that could cause abnormal protection detection",
+          "Optimized helmet protection zone calculations based on each helmet’s visual model, fixing issues that could cause abnormal protection detection",
           "Closed armor armpit gaps, preventing bullets from bypassing armor and directly hitting the chest",
           "Increased the minimum protection level retained when armor durability drops",
           "Reduced penetration chance when bullet penetration is close to the protection level of helmets, armor, and face shields",
-          "Adjusted the character\u2019s default food and hydration limits",
+          "Adjusted the character’s default food and hydration limits",
           "Fixed an issue where weapons with non-detachable magazines, such as shotguns, SKS, and Mosin, would lose their magazine ammo after entering a raid",
           "Fixed an issue where picked-up weapons with non-detachable magazines had no ammo",
           "Fixed an issue where weapons dropped by AI with non-repairable magazines had no ammo when picked up",
@@ -472,7 +503,7 @@
           "Fixed multiple spots that could go underground",
           "Fixed the issue where gunsmith table could abnormally obtain firearms",
           "Fixed the issue where M4A1 DD purchase was missing attachments",
-          "Fixed the issue where some players\u2019 in-game tasks might not complete",
+          "Fixed the issue where some players’ in-game tasks might not complete",
           "Fixed the issue where MICA reads armor durability incorrectly",
           "Fixed the issue where M67 grenade in backpack had no collision with other grenades and could stack",
           "Optimized descriptions for some tasks"
@@ -530,31 +561,31 @@
           "Water consumption: In-match idle consumption reduced by 50%, running consumption reduced by 20%",
           "Fall damage reduced by 25%",
           "Fixed two locations where players could clip through walls into underground areas",
-          "9x19mm RIP, 102 \u2192 88",
-          ".45 ACP \"SHOCK-CORE\", 100 \u2192 86",
-          ".45 ACP RIP, 130 \u2192 105",
-          "7.62x39mm HP, 80 \u2192 84",
-          "5.45x39mm HP, 78 \u2192 80",
-          "5.56x45mm HP, 79 \u2192 81",
-          "5.56x45mm \"VITALSTRIKE\", 88 \u2192 90",
-          "7.62x54R SP, 92 \u2192 90",
-          "7.62x54R HP, 105 \u2192 102",
-          "7.62x51mm HP, 92 \u2192 90",
-          "7.62x51mm Ultra Nosler, 105 \u2192 101",
-          "9x19mm Luger CCI: 495\u00d715=7425, 1450\u00d715=21750",
-          "9x19mm AP: 571\u00d715=8565, 1750\u00d715=26250",
-          "9x19mm RIP: 2633\u00d715=39495",
-          "9x19mm PBP: 3563\u00d715=53445",
-          ".45 ACP \"SHOCK-CORE\": 872\u00d715=13080, 2700\u00d715=40500",
-          ".45 ACP AP: 940\u00d715=14100, 2300\u00d715=34500",
+          "9x19mm RIP, 102 → 88",
+          ".45 ACP \"SHOCK-CORE\", 100 → 86",
+          ".45 ACP RIP, 130 → 105",
+          "7.62x39mm HP, 80 → 84",
+          "5.45x39mm HP, 78 → 80",
+          "5.56x45mm HP, 79 → 81",
+          "5.56x45mm \"VITALSTRIKE\", 88 → 90",
+          "7.62x54R SP, 92 → 90",
+          "7.62x54R HP, 105 → 102",
+          "7.62x51mm HP, 92 → 90",
+          "7.62x51mm Ultra Nosler, 105 → 101",
+          "9x19mm Luger CCI: 495×15=7425, 1450×15=21750",
+          "9x19mm AP: 571×15=8565, 1750×15=26250",
+          "9x19mm RIP: 2633×15=39495",
+          "9x19mm PBP: 3563×15=53445",
+          ".45 ACP \"SHOCK-CORE\": 872×15=13080, 2700×15=40500",
+          ".45 ACP AP: 940×15=14100, 2300×15=34500",
           ".45 ACP RIP ammo now requires redemption; removed from the magazine quick-fill purchase list",
-          "7.62x51mm HP: 380\u00d715=5700",
-          "7.62x51mm Ultra Nosler: 550\u00d715=8250",
-          "Stomach: 1.0x \u2192 0.8x",
-          "Stomach: 1.1x \u2192 0.8x",
-          "arm: 0.7x \u2192 0.5x",
-          "Upper leg: 1.0x \u2192 0.7x",
-          "Lower leg: 0.7x \u2192 0.5x"
+          "7.62x51mm HP: 380×15=5700",
+          "7.62x51mm Ultra Nosler: 550×15=8250",
+          "Stomach: 1.0x → 0.8x",
+          "Stomach: 1.1x → 0.8x",
+          "arm: 0.7x → 0.5x",
+          "Upper leg: 1.0x → 0.7x",
+          "Lower leg: 0.7x → 0.5x"
         ]
       }
     ]
@@ -703,7 +734,7 @@
           "Fixed an issue where gunsmith bench attachments were not unlocking properly",
           "Fixed an issue where opening crates in-game could cause players to get stuck",
           "Fixed a terrain issue",
-          "Adjusted positions of some airdrop crates that couldn\u2019t be entered",
+          "Adjusted positions of some airdrop crates that couldn’t be entered",
           "Fixed display abnormalities in some UI elements",
           "Adjusted issues with certain items being abnormally unlocked in the store"
         ]
@@ -716,7 +747,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Full Wipe \ud83d\udd01'''",
+        "name": "'''Full Wipe 🔁'''",
         "items": []
       },
       {
@@ -867,16 +898,16 @@
           "Adjusted armor penetration curves to buff defense for all armor, helmets, and face masks:",
           "All armor uses the same probability curve to calculate bullet penetration.",
           "If bullet penetration > armor protection level, it will definitely penetrate.",
-          "If bullet penetration - helmet defense level \u2265 2, it will definitely penetrate.",
-          "If armor protection level - bullet penetration \u2265 1, it cannot be penetrated.",
+          "If bullet penetration - helmet defense level ≥ 2, it will definitely penetrate.",
+          "If armor protection level - bullet penetration ≥ 1, it cannot be penetrated.",
           "Increased blunt damage reduction coefficients for all armor.",
           "Added text descriptions for armor's limb protection levels. Limb protection decreases with current armor durability.",
           "Adjusted damage spread coefficients after limb destruction:",
-          "Upper arm: 0.5x \u2192 0.7x",
-          "Lower arm: 0.5x \u2192 0.7x",
-          "Upper leg: 0.5x \u2192 1.0x",
-          "Lower leg: 0.5x \u2192 0.7x",
-          "Stomach: 1.5x \u2192 1.1x"
+          "Upper arm: 0.5x → 0.7x",
+          "Lower arm: 0.5x → 0.7x",
+          "Upper leg: 0.5x → 1.0x",
+          "Lower leg: 0.5x → 0.7x",
+          "Stomach: 1.5x → 1.1x"
         ]
       }
     ]
@@ -1036,7 +1067,7 @@
         "items": [
           "Fixed the issue in Taste of Life 3 where picking up sake for submission is not recognized.",
           "Fixed the item submission in Magazine Recovery: magazines containing bullets cause HQ to restart.",
-          "Fixed the issue where a Scav\u2019s backpack is erroneously deleted.",
+          "Fixed the issue where a Scav’s backpack is erroneously deleted.",
           "Fixed an issue where the safe container abnormally fails to function.",
           "Fixed the M870-DM Mag not having a holster to store it in."
         ]
@@ -1067,17 +1098,17 @@
       {
         "name": "'''Quest Adjustments'''",
         "items": [
-          "Magazine Recovery \u2013 Fixed an issue where magazines could not be submitted.",
-          "Ears in the Walls \u2013 Fixed missing quest items in the warehouse.",
-          "Hair Comes First \u2013 Updated description; kills without wearing a helmet now count correctly.",
-          "Salvage Mission 1 \u2013 Updated description; the mission involves up to four TVs instead of five.",
-          "Protection Racket \u2013 Fixed missing container for cash placement; related task adjusted."
+          "Magazine Recovery – Fixed an issue where magazines could not be submitted.",
+          "Ears in the Walls – Fixed missing quest items in the warehouse.",
+          "Hair Comes First – Updated description; kills without wearing a helmet now count correctly.",
+          "Salvage Mission 1 – Updated description; the mission involves up to four TVs instead of five.",
+          "Protection Racket – Fixed missing container for cash placement; related task adjusted."
         ]
       },
       {
         "name": "'''Traders'''",
         "items": [
-          "TP Trader \u2013 Added an additional exchange option for Golden Figurines to improve the low drop rate issue."
+          "TP Trader – Added an additional exchange option for Golden Figurines to improve the low drop rate issue."
         ]
       },
       {
@@ -1119,7 +1150,7 @@
         "name": "'''Changes'''",
         "items": [
           "Updated the text description for Shades for Boom.",
-          "Modified the content of The Gunsmith \u201cAttach\u201d quest and its subsequent unlock conditions."
+          "Modified the content of The Gunsmith “Attach” quest and its subsequent unlock conditions."
         ]
       },
       {
@@ -1157,7 +1188,7 @@
         ]
       },
       {
-        "name": "'''Full Wipe \ud83d\udd01'''",
+        "name": "'''Full Wipe 🔁'''",
         "items": []
       },
       {
@@ -1256,7 +1287,7 @@
           "Enhanced visuals for vegetation, rocks, and terrain.",
           "Improved long-distance visuals of northern pine forests.",
           "Enhanced wave effects.",
-          "New Settlements: Tanker Bar, Sewage Plant Site, Car Graveyard, Forest Villa, Hunter\u2019s Camp, Lumber Yard, Raider Camp, Checkpoint.",
+          "New Settlements: Tanker Bar, Sewage Plant Site, Car Graveyard, Forest Villa, Hunter’s Camp, Lumber Yard, Raider Camp, Checkpoint.",
           "HQ Update: Structure rework, added Workshop."
         ]
       },
@@ -1661,7 +1692,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "Full Wipe \ud83d\udd01",
+        "name": "Full Wipe 🔁",
         "items": []
       },
       {
@@ -2015,7 +2046,7 @@
         "name": "Changes",
         "items": [
           "Shooting range is now disabled when in a party.",
-          "Adjusted the weight of an item: Silver Cup: 12kg \u2192 2.2kg.",
+          "Adjusted the weight of an item: Silver Cup: 12kg → 2.2kg.",
           "Improved descriptions for more accurate location information in English contexts.",
           "Adjusted attenuation distance and volume for painkiller and loot box opening sound effects."
         ]
@@ -2116,7 +2147,7 @@
         "items": [
           "Christmas Decorations: Enjoy holiday-themed decorations in your Hideout to get into the festive spirit.",
           "Special Mission: Take on a limited-time Christmas mission with unique rewards.",
-          "Special Hunting Squad: A challenging hunting squad has appeared in the Dam area\u2014defeat them for exclusive loot!"
+          "Special Hunting Squad: A challenging hunting squad has appeared in the Dam area—defeat them for exclusive loot!"
         ]
       },
       {
@@ -2154,7 +2185,7 @@
         "name": "Balance Changes",
         "items": [
           "Improved the armor protection angle to cover chest areas that previously lacked protection.",
-          "Reduced the firing volume of the Sj\u00f6gren shotgun.",
+          "Reduced the firing volume of the Sjögren shotgun.",
           "Adjusted the attributes of 5.56x45mm M995 rounds: decreased penetration level and armor damage, increased base damage (to align with the Christmas event's free ammo giveaway).",
           "Fixed an issue where the Rampage OD armor would clip through the ground.",
           "Adjusted shop prices for ammo pouches, helmets, medical syringes, and fuel canisters.",
@@ -2193,7 +2224,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "Full Wipe \ud83d\udd01",
+        "name": "Full Wipe 🔁",
         "items": []
       },
       {
@@ -2353,10 +2384,10 @@
         "name": "Changes",
         "items": [
           "Fixed an issue where grenades in the backpack did not collide with other grenades.",
-          "Fixed an issue where grenades in the backpack could collide with the player\u2019s body under certain circumstances.",
+          "Fixed an issue where grenades in the backpack could collide with the player’s body under certain circumstances.",
           "Slightly reduced the hit probability of grenades on body parts at close range (10m).",
           "Increased the friction when grenades land on the ground.",
-          "Fixed an issue where the Sj\u00f6gren, M1897, M590, and Mosin could load any type of ammunition.",
+          "Fixed an issue where the Sjögren, M1897, M590, and Mosin could load any type of ammunition.",
           "Fixed an issue where hats could equip night vision goggles and face masks.",
           "Removed the pistol rail attachment permission for the P250.",
           "Adjusted HQ storage.",
@@ -2372,7 +2403,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "Full Wipe \ud83d\udd01",
+        "name": "Full Wipe 🔁",
         "items": [
           "Optimized queueing performance",
           "Optimized server performance for hideout stashing.",
