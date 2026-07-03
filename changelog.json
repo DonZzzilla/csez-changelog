@@ -1,5 +1,24 @@
 [
   {
+    "version": "v1.6.12.1",
+    "date": "2026-07-03",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Fixes",
+        "items": [
+          "Fixed an issue where HQ Perks could be lost during a raid.",
+          "Fixed an offset issue with stock calibration gestures.",
+          "Fixed incorrect weapon stats displayed for the RSH-12 in the shop.",
+          "Fixed an abnormal state affecting one of the revolvers.",
+          "Restored the missing equipment rack in the HQ.",
+          "Fixed various localization issues.",
+          "Fixed an issue where Russian and Portuguese text was not displaying correctly."
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.6.12.0",
     "date": "2026-07-02",
     "category": "Alpha",
