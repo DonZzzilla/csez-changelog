@@ -1,5 +1,21 @@
 [
   {
+    "version": "1.6.12.2",
+    "date": "2026-07-09",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed an issue with incorrect reload sound effects for the RSH12.",
+          "Fixed an issue causing one of the bosses to spawn incorrectly.",
+          "Fixed an incorrect prompt when placing the Armor Repair Kit into the Secure Container.",
+          "Fixed an issue where some scopes displayed the wrong default reticle color."
+        ]
+      }
+    ]
+  },
+  {
     "version": "v1.6.12.1",
     "date": "2026-07-03",
     "category": "Alpha",
