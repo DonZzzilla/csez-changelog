@@ -1,5 +1,20 @@
 [
   {
+    "version": "1.6.13.0",
+    "date": "2026-07-17",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Added the Max's Collection event.",
+          "Fixed an issue that allowed players to access unintended areas of the Battle royale  map.",
+          "https://maxcollection.contractorsvr.com"
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.6.12.2",
     "date": "2026-07-09",
     "category": "Alpha",
