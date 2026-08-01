@@ -1,28 +1,13 @@
 [
   {
-    "version": "1.6.13.0",
-    "date": "2026-07-17",
+    "version": "1.6.15.0",
+    "date": "2026-07-31",
     "category": "Alpha",
     "sections": [
       {
         "name": "Changes",
         "items": [
-          "Added the Max's Collection event.",
-          "Fixed an issue that allowed players to access unintended areas of the Battle royale  map.",
-          "https://maxcollection.contractorsvr.com"
-        ]
-      }
-    ]
-  },
-  {
-    "version": "1.6.13.0",
-    "date": "2026-07-21",
-    "category": "Alpha",
-    "sections": [
-      {
-        "name": "Changes",
-        "items": [
-          "Fixed an issue with players unable to join raids."
+          "Removed Max's Collection event."
         ]
       }
     ]
@@ -46,14 +31,29 @@
     ]
   },
   {
-    "version": "1.6.15.0",
-    "date": "2026-07-31",
+    "version": "1.6.13.0",
+    "date": "2026-07-21",
     "category": "Alpha",
     "sections": [
       {
         "name": "Changes",
         "items": [
-          "Removed Max's Collection event."
+          "Fixed an issue with players unable to join raids."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.6.13.0",
+    "date": "2026-07-17",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Added the Max's Collection event.",
+          "Fixed an issue that allowed players to access unintended areas of the Battle royale  map.",
+          "https://maxcollection.contractorsvr.com"
         ]
       }
     ]

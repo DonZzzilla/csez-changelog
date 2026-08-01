@@ -5,20 +5,13 @@
   <link>https://github.com/DonZzzilla/csez-changelog</link>
   <description>Full patch history for Contractors Showdown ExfilZone</description>
   <language>en</language>
-  <lastBuildDate>Sat, 01 Aug 2026 05:28:02 -0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 05:33:48 -0000</lastBuildDate>
   <item>
-    <title>1.6.13.0 (2026-07-17)</title>
+    <title>1.6.15.0 (2026-07-31)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Added the Max's Collection event.<br>&amp;bull; Fixed an issue that allowed players to access unintended areas of the Battle royale  map.<br>&amp;bull; https://maxcollection.contractorsvr.com]]></description>
-    <pubDate>Fri, 17 Jul 2026 07:00:00 -0000</pubDate>
-    <guid>csez-1-6-13-0</guid>
-  </item>
-  <item>
-    <title>1.6.13.0 (2026-07-21)</title>
-    <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Fixed an issue with players unable to join raids.]]></description>
-    <pubDate>Tue, 21 Jul 2026 07:00:00 -0000</pubDate>
-    <guid>csez-1-6-13-0</guid>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Removed Max's Collection event.]]></description>
+    <pubDate>Fri, 31 Jul 2026 07:00:00 -0000</pubDate>
+    <guid>csez-1-6-15-0</guid>
   </item>
   <item>
     <title>1.6.14.0 (2026-07-24)</title>
@@ -28,11 +21,18 @@
     <guid>csez-1-6-14-0</guid>
   </item>
   <item>
-    <title>1.6.15.0 (2026-07-31)</title>
+    <title>1.6.13.0 (2026-07-21)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Removed Max's Collection event.]]></description>
-    <pubDate>Fri, 31 Jul 2026 07:00:00 -0000</pubDate>
-    <guid>csez-1-6-15-0</guid>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Fixed an issue with players unable to join raids.]]></description>
+    <pubDate>Tue, 21 Jul 2026 07:00:00 -0000</pubDate>
+    <guid>csez-1-6-13-0</guid>
+  </item>
+  <item>
+    <title>1.6.13.0 (2026-07-17)</title>
+    <link>https://csez.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Added the Max's Collection event.<br>&amp;bull; Fixed an issue that allowed players to access unintended areas of the Battle royale  map.<br>&amp;bull; https://maxcollection.contractorsvr.com]]></description>
+    <pubDate>Fri, 17 Jul 2026 07:00:00 -0000</pubDate>
+    <guid>csez-1-6-13-0</guid>
   </item>
   <item>
     <title>1.6.12.2 (2026-07-09)</title>
