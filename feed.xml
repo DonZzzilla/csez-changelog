@@ -5,7 +5,14 @@
   <link>https://github.com/DonZzzilla/csez-changelog</link>
   <description>Full patch history for Contractors Showdown ExfilZone</description>
   <language>en</language>
-  <lastBuildDate>Wed, 23 Sep 2026 22:03:20 -0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 20:56:04 -0000</lastBuildDate>
+  <item>
+    <title>1.7.0.0 (2026-09-23)</title>
+    <link>https://csez.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>New Weapons and Attachments</strong><br>&amp;bull; Added four weapons and their associated attachments:<br>&amp;bull; GP100 9×19mm revolver<br>&amp;bull; ASH-12 12.7×55mm assault rifle<br>&amp;bull; MX338<br>&amp;bull; SESA2<br><strong>Map Updates</strong><br>&amp;bull; Reworked the Leopard base at the Dam Factory.<br>&amp;bull; Reworked the Suburb Military Camp.<br>&amp;bull; Reworked the interior of the Suburb Shopping Mall.<br>&amp;bull; Improved the layout of northern Suburb.<br>&amp;bull; Expanded the northwestern area of Suburb.<br><strong>Tasks and Trader Progression</strong><br>&amp;bull; Reorganized task order and prerequisite requirements. Trader progression now advances across multiple traders and includes level requirements. The available XP is sufficient to meet those requirements.<br>&amp;bull; Adjusted trader upgrade timing and task milestones so players can no longer progress by focusing on a single trader.<br>&amp;bull; Reduced the required quantities for some tasks.<br>&amp;bull; Revised many task descriptions to make locations and objectives clearer.<br><strong>HQ Progression</strong><br>&amp;bull; Reduced the materials required for HQ upgrades.<br>&amp;bull; Increased the benefits of some upgrades. Higher level recovery upgrades now work faster, and some higher level in-raid bonuses have been slightly increased.<br>&amp;bull; Revised HQ upgrade prerequisites to require more gradual progression.<br><strong>Combat Balance</strong><br>&amp;bull; Rebalanced bullet blunt damage. Some low penetration rounds now deal substantially more blunt damage, while some high tier rounds receive a smaller increase.<br>&amp;bull; Adjusted the body armor penetration curve. The penetration threshold has changed from a one-tier difference to a 1.5-tier difference, while the chance of lower tier rounds penetrating has increased slightly. This change applies to body armor only.<br>&amp;bull; High tier body armor now loses more durability when absorbing blunt damage.<br><strong>Audio</strong><br>&amp;bull; Fixed an issue that prevented the tail of unsuppressed gunshots from playing.<br>&amp;bull; Created new unsuppressed and suppressed firing sounds for the M4A1/AR15 and M16.<br>&amp;bull; Adjusted the suppressed firing sound of the SECA 17SSR.<br><strong>AI</strong><br>&amp;bull; AI enemies are less likely to actively search for players.<br>&amp;bull; AI enemies are less likely to fire while moving at high speed.<br>&amp;bull; AI enemies can now use the ASH-12 12.7×55mm assault rifle and GP100 9×19mm revolver.<br><strong>Medical Items</strong><br>&amp;bull; Reduced the use time of buff injections from 5 seconds to 1.5 seconds.<br><strong>Rebirth and the Rebirth Shop</strong><br>&amp;bull; PvE players above level 20 can now use Rebirth to reset their PvE account progression.<br>&amp;bull; Stash assets are converted into Rebirth Tokens at a rate of 10,000 in asset value per token, up to a maximum of 10,000 tokens.<br>&amp;bull; Rebirth clears all PvE account data, including the stash. DLC rewards must be claimed again afterward.<br>&amp;bull; Rebirth Tokens can be spent in the PvE Rebirth Shop on existing top tier ammunition, armor, weapons, and backpacks.<br>&amp;bull; The shop also offers PvE-exclusive enhanced items, including double-capacity magazines and medical items, faster healing limb repair kits, level 8 armor, high-damage grenades, and grips that greatly reduce recoil.<br><strong>Performance and Stability</strong><br>&amp;bull; Improved performance and client stability.<br>&amp;bull; Added further anti-cheat measures.<br><strong>Bug Fixes</strong><br>&amp;bull; Fixed an issue that prevented dropped weapons from rendering completely.<br>&amp;bull; Fixed ragdoll behavior that caused enemy bodies to collapse into a pile.<br>&amp;bull; Fixed incorrect recoil calculations when firing one-handed.]]></description>
+    <pubDate>Wed, 23 Sep 2026 07:00:00 -0000</pubDate>
+    <guid>csez-1-7-0-0</guid>
+  </item>
   <item>
     <title>1.6.16.0 (2026-09-03)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
@@ -348,13 +355,6 @@
     <description><![CDATA[<strong>'''Bug Fixes'''</strong><br>&amp;bull; Added upgraded EAC support<br>&amp;bull; Fixed the abnormal sound caused by HQ posters<br>&amp;bull; Fixed the abnormal sound when airdrop land<br>&amp;bull; Fixed the issue where multiple grips would affect recoil<br>&amp;bull; Fixed a space bug in the safe containers]]></description>
     <pubDate>Fri, 25 Jul 2025 07:00:00 -0000</pubDate>
     <guid>csez-1-3-11-0</guid>
-  </item>
-  <item>
-    <title>1.3.10.0 (2025-07-18)</title>
-    <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>'''New Content'''</strong><br>&amp;bull; Added posters as placeable items in HQ<br>&amp;bull; Added flare gun and related tasks<br>&amp;bull; Added UID display to the end-game interface<br>&amp;bull; Added damage multiplier for bullets on already damaged limbs (Nerf)<br>&amp;bull; Adjusted the grip angle of the SVT-40]]></description>
-    <pubDate>Fri, 18 Jul 2025 07:00:00 -0000</pubDate>
-    <guid>csez-1-3-10-0</guid>
   </item>
 </channel>
 </rss>

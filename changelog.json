@@ -1,5 +1,117 @@
 [
   {
+    "version": "1.7.0.0",
+    "date": "2026-09-23",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "'''Full Wipe \ud83d\udd01'''",
+        "items": []
+      },
+      {
+        "name": "New Weapons and Attachments",
+        "items": [
+          "Added four weapons and their associated attachments:",
+          "GP100 9\u00d719mm revolver",
+          "ASH-12 12.7\u00d755mm assault rifle",
+          "MX338",
+          "SESA2",
+          "Added the following attachments:",
+          "RC416 SMR handguard: black without rails and tan with rails",
+          "AR NightRail handguard",
+          "AR SCS stock",
+          "AK 1U020 handguard: tan and black variants",
+          "AK KEK stock"
+        ]
+      },
+      {
+        "name": "Map Updates",
+        "items": [
+          "Reworked the Leopard base at the Dam Factory.",
+          "Reworked the Suburb Military Camp.",
+          "Reworked the interior of the Suburb Shopping Mall.",
+          "Improved the layout of northern Suburb.",
+          "Expanded the northwestern area of Suburb.",
+          "Improved performance at the Factory and Shopping Mall.",
+          "Improved indoor audio across many buildings in Suburb and Dam.",
+          "Fixed various map-related issues."
+        ]
+      },
+      {
+        "name": "Tasks and Trader Progression",
+        "items": [
+          "Reorganized task order and prerequisite requirements. Trader progression now advances across multiple traders and includes level requirements. The available XP is sufficient to meet those requirements.",
+          "Adjusted trader upgrade timing and task milestones so players can no longer progress by focusing on a single trader.",
+          "Reduced the required quantities for some tasks.",
+          "Revised many task descriptions to make locations and objectives clearer."
+        ]
+      },
+      {
+        "name": "HQ Progression",
+        "items": [
+          "Reduced the materials required for HQ upgrades.",
+          "Increased the benefits of some upgrades. Higher level recovery upgrades now work faster, and some higher level in-raid bonuses have been slightly increased.",
+          "Revised HQ upgrade prerequisites to require more gradual progression."
+        ]
+      },
+      {
+        "name": "Combat Balance",
+        "items": [
+          "Rebalanced bullet blunt damage. Some low penetration rounds now deal substantially more blunt damage, while some high tier rounds receive a smaller increase.",
+          "Adjusted the body armor penetration curve. The penetration threshold has changed from a one-tier difference to a 1.5-tier difference, while the chance of lower tier rounds penetrating has increased slightly. This change applies to body armor only.",
+          "High tier body armor now loses more durability when absorbing blunt damage."
+        ]
+      },
+      {
+        "name": "Audio",
+        "items": [
+          "Fixed an issue that prevented the tail of unsuppressed gunshots from playing.",
+          "Created new unsuppressed and suppressed firing sounds for the M4A1/AR15 and M16.",
+          "Adjusted the suppressed firing sound of the SECA 17SSR."
+        ]
+      },
+      {
+        "name": "AI",
+        "items": [
+          "AI enemies are less likely to actively search for players.",
+          "AI enemies are less likely to fire while moving at high speed.",
+          "AI enemies can now use the ASH-12 12.7\u00d755mm assault rifle and GP100 9\u00d719mm revolver."
+        ]
+      },
+      {
+        "name": "Medical Items",
+        "items": [
+          "Reduced the use time of buff injections from 5 seconds to 1.5 seconds."
+        ]
+      },
+      {
+        "name": "Rebirth and the Rebirth Shop",
+        "items": [
+          "PvE players above level 20 can now use Rebirth to reset their PvE account progression.",
+          "Stash assets are converted into Rebirth Tokens at a rate of 10,000 in asset value per token, up to a maximum of 10,000 tokens.",
+          "Rebirth clears all PvE account data, including the stash. DLC rewards must be claimed again afterward.",
+          "Rebirth Tokens can be spent in the PvE Rebirth Shop on existing top tier ammunition, armor, weapons, and backpacks.",
+          "The shop also offers PvE-exclusive enhanced items, including double-capacity magazines and medical items, faster healing limb repair kits, level 8 armor, high-damage grenades, and grips that greatly reduce recoil."
+        ]
+      },
+      {
+        "name": "Performance and Stability",
+        "items": [
+          "Improved performance and client stability.",
+          "Added further anti-cheat measures."
+        ]
+      },
+      {
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed an issue that prevented dropped weapons from rendering completely.",
+          "Fixed ragdoll behavior that caused enemy bodies to collapse into a pile.",
+          "Fixed incorrect recoil calculations when firing one-handed."
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.6.16.0",
     "date": "2026-09-03",
     "category": "Alpha",
