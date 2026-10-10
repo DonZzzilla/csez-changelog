@@ -1,5 +1,27 @@
 [
   {
+    "version": "1.7.0.2",
+    "date": "2026-09-28",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Fixed issues that prevented the G33, Vertex, and Mark3 optics from working correctly.",
+          "Restored the NightHawk scope's magnification adjustment settings.",
+          "Added missing gunsmith assembly support for the SESA2 and MX338.",
+          "Restored missing drop sounds for some magazines, along with paint customization for some attachments and magazines.",
+          "Fixed rounds clipping through ASH-12 magazines.",
+          "Adjusted grab detection on some syringes to improve handling.",
+          "Fixed an issue where an earlier Hideout save could incorrectly complete a later save request during consecutive actions.",
+          "Improved saving before leaving the Hideout or starting matchmaking by waiting for the corresponding save request. While connected, a failed exit save now prevents the game from quitting immediately.",
+          "Fixed an issue that allowed players to interact with other players' safe containers.",
+          "Fixed the spawn rate of the 'barricade' boss."
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.7.0.1",
     "date": "2026-09-25",
     "category": "Alpha",
@@ -14,9 +36,8 @@
           "Fixed incorrect localization of task objectives such as \u201cFind the Missing Scholar.\u201d",
           "Fixed an issue allowing the entire ASH-12 to be placed in magazine pouches.",
           "Added the missing sidearm holster compatibility tag to the GP100.",
-          "Added Scav/PMC task isolation logic",
-          "Added PVE compensation for players that did not receive the correct amount of tokens",
-          "-"
+          "Added Scav/PMC task isolation logic.",
+          "Added PVE compensation for players that did not receive the correct amount of tokens."
         ]
       }
     ]
