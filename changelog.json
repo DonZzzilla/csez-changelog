@@ -1,5 +1,31 @@
 [
   {
+    "version": "1.7.0.3",
+    "date": "2026-10-10",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Patch v1.7.0.3 is live, make sure tor restart you headset/software in order to install the update",
+          "Patch Note v1.7.0.3",
+          "Fixed an issue where switching modes could cause data errors and incorrect trader levels.",
+          "Fixed HQ buffs not applying during raids.",
+          "Fixed some weapon spray not displaying correctly after entering a raid.",
+          "Fixed an issue where the AUG could spawn an extra magazine in certain situations.",
+          "Fixed some high-magnification scopes being unable to flip or adjust zoom.",
+          "Fixed the damage effect incorrectly appearing when hunger dropped below 50%.",
+          "Fixed the Armor Repair Gun incorrectly having a sell price of 0.",
+          "Adjusted the trader level required to purchase the ASH-12 in PvP mode.",
+          "Improved when panting and grunting sounds trigger while picking up items over the weight limit.",
+          "Fixed bow quivers disappearing on the ground in BR mode.",
+          "Thank you again for all the feedback and bug/player reports keep them coming \ud83d\ude4f",
+          "-"
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.7.0.2",
     "date": "2026-09-28",
     "category": "Alpha",
