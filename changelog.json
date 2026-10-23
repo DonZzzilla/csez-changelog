@@ -1,5 +1,28 @@
 [
   {
+    "version": "1.7.1.0",
+    "date": "2026-10-16",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "**Anti-Cheat**",
+          "Implemented additional anti-cheat measures to improve fair play.",
+          "**Bug Fixes & Improvements**",
+          "Fixed an exploit that allowed players to generate money using medical kits.",
+          "Fixed an issue causing map assets and character models to appear completely black.",
+          "Adjusted post-processing settings for PC maps.",
+          "Fixed an issue where flashbangs were not functioning on Quest standalone.",
+          "Fixed abnormal sound effects when using the Armor Repair Gun.",
+          "Fixed an issue preventing the Mosin from being loaded.",
+          "Fixed an issue where the Miscellaneous Storage Box failed to display or properly categorize items.",
+          "Fixed an issue where ammunition loaded into the RSH-12's cylinder would not carry over into raids."
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.7.0.3",
     "date": "2026-10-10",
     "category": "Alpha",
