@@ -5,7 +5,21 @@
   <link>https://github.com/DonZzzilla/csez-changelog</link>
   <description>Full patch history for Contractors Showdown ExfilZone</description>
   <language>en</language>
-  <lastBuildDate>Fri, 23 Oct 2026 04:37:48 -0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 14:40:24 -0000</lastBuildDate>
+  <item>
+    <title>1.7.2.0 (2026-10-23)</title>
+    <link>https://csez.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Patch v1.7.2.0 is live — restart your headset/software to install the update.<br>&amp;bull; Bug Fixes<br>&amp;bull; Balance Adjustments]]></description>
+    <pubDate>Fri, 23 Oct 2026 07:00:00 -0000</pubDate>
+    <guid>csez-1-7-2-0</guid>
+  </item>
+  <item>
+    <title>1.7.1.1 (2026-10-17)</title>
+    <link>https://csez.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Adjusted post-processing settings for PC maps]]></description>
+    <pubDate>Sat, 17 Oct 2026 07:00:00 -0000</pubDate>
+    <guid>csez-1-7-1-1</guid>
+  </item>
   <item>
     <title>1.7.1.0 (2026-10-16)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
@@ -341,20 +355,6 @@
     <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Fixed a duplication issue with the Gunsmith bench<br>&amp;bull; Fixed a duplication issue in the kiosk<br>&amp;bull; Fixed an issue that could cause the onboarding/tutorial to be entered multiple times]]></description>
     <pubDate>Fri, 12 Dec 2025 08:00:00 -0000</pubDate>
     <guid>csez-1-4-10-0</guid>
-  </item>
-  <item>
-    <title>1.4.9.0 (2025-11-21)</title>
-    <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Fixed several issues that could potentially cause server crashes<br>&amp;bull; Fixed a bug in the Resort map that would cause characters to get stuck<br>&amp;bull; Fixed a bug where a Hideout facility upgrade effect was not applying correctly<br>&amp;bull; Fixed a duplication exploit/bug<br>&amp;bull; Adjusted the prices of some ammunition types in the shop]]></description>
-    <pubDate>Fri, 21 Nov 2025 08:00:00 -0000</pubDate>
-    <guid>csez-1-4-9-0</guid>
-  </item>
-  <item>
-    <title>1.4.8.0 (2025-11-14)</title>
-    <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Attempted to fix a server crash issue<br>&amp;bull; Fixed abnormal sounds in the Smuggling Tunnel map<br>&amp;bull; Fixed the issue where seca17 could load SF60 magazines<br>&amp;bull; Fixed a clipping issue in one spot in Smuggling Tunnel<br>&amp;bull; Fixed the invisible metro explosion wall]]></description>
-    <pubDate>Fri, 14 Nov 2025 08:00:00 -0000</pubDate>
-    <guid>csez-1-4-8-0</guid>
   </item>
 </channel>
 </rss>
