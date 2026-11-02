@@ -1,5 +1,23 @@
 [
   {
+    "version": "1.7.3.0",
+    "date": "2026-10-30",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
+          "Patch Note v1.7.3.0",
+          "Made further adjustments aimed at improving anti-cheat protection.",
+          "Fixed an issue preventing the M870-DM from being pumped.",
+          "Fixed an ammunition duplication bug.",
+          "Attempted to fix an issue where using the Mosin could falsely trigger anti-cheat detection.",
+          "Optimized package size."
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.7.2.0",
     "date": "2026-10-23",
     "category": "Alpha",
@@ -35,9 +53,9 @@
       {
         "name": "Changes",
         "items": [
-          "**Anti-Cheat**",
+          "Anti-Cheat",
           "Implemented additional anti-cheat measures to improve fair play.",
-          "**Bug Fixes & Improvements**",
+          "Bug Fixes & Improvements",
           "Fixed an exploit that allowed players to generate money using medical kits.",
           "Fixed an issue causing map assets and character models to appear completely black.",
           "Adjusted post-processing settings for PC maps.",
@@ -58,7 +76,7 @@
       {
         "name": "Changes",
         "items": [
-          "Patch v1.7.0.3 is live, make sure tor restart you headset/software in order to install the update",
+          "Patch v1.7.0.3 is live, make sure to restart your headset/software in order to install the update",
           "Patch Note v1.7.0.3",
           "Fixed an issue where switching modes could cause data errors and incorrect trader levels.",
           "Fixed HQ buffs not applying during raids.",
@@ -70,8 +88,7 @@
           "Adjusted the trader level required to purchase the ASH-12 in PvP mode.",
           "Improved when panting and grunting sounds trigger while picking up items over the weight limit.",
           "Fixed bow quivers disappearing on the ground in BR mode.",
-          "Thank you again for all the feedback and bug/player reports keep them coming \ud83d\ude4f",
-          "-"
+          "Thank you again for all the feedback and bug/player reports keep them coming \ud83d\ude4f"
         ]
       }
     ]
@@ -125,7 +142,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Full Wipe \ud83d\udd01'''",
+        "name": "Full Wipe \ud83d\udd01",
         "items": []
       },
       {
@@ -282,7 +299,7 @@
     ]
   },
   {
-    "version": "1.6.13.0",
+    "version": "1.6.13.0 Hotfix",
     "date": "2026-07-21",
     "category": "Alpha",
     "sections": [
@@ -303,7 +320,7 @@
         "name": "Changes",
         "items": [
           "Added the Max's Collection event.",
-          "Fixed an issue that allowed players to access unintended areas of the Battle royale  map.",
+          "Fixed an issue that allowed players to access unintended areas of the Battle royale map.",
           "https://maxcollection.contractorsvr.com"
         ]
       }
@@ -326,7 +343,7 @@
     ]
   },
   {
-    "version": "v1.6.12.1",
+    "version": "1.6.12.1",
     "date": "2026-07-03",
     "category": "Alpha",
     "sections": [
@@ -587,7 +604,7 @@
     ]
   },
   {
-    "version": "1.6.1.0",
+    "version": "1.6.1.0 Quest Only",
     "date": "2026-04-23",
     "category": "Alpha",
     "sections": [
@@ -595,7 +612,7 @@
         "name": "Changes",
         "items": [
           "Make sure to restart your device/software in order to install the update",
-          "Fixed quest jittering issue"
+          "Fixed quest jittering issue (Quest standalone only)"
         ]
       }
     ]
@@ -632,11 +649,11 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Full Wipe \ud83d\udd01'''",
+        "name": "Full Wipe \ud83d\udd01",
         "items": []
       },
       {
-        "name": "'''New Features'''",
+        "name": "New Features",
         "items": [
           "Introduced the new PvE Mode, offering a dedicated co-op experience for players looking for a more accessible and structured way to enter ExfilZone",
           "Added two difficulty options: Casual and Standard",
@@ -682,7 +699,7 @@
         ]
       },
       {
-        "name": "'''Optimizations, Adjustments, and Bug Fixes'''",
+        "name": "Optimizations, Adjustments, and Bug Fixes",
         "items": [
           "Adjusted Hideout facility layout and functions for an upgraded base management experience",
           "Added Kiosk Direct Sale, allowing players to sell items directly for more convenient cash conversion",
@@ -722,7 +739,7 @@
     ]
   },
   {
-    "version": "1.5.14.0",
+    "version": "1.5.14.0 Server Update",
     "date": "2026-04-10",
     "category": "Alpha",
     "sections": [
@@ -760,7 +777,7 @@
         ]
       },
       {
-        "name": "'''Beer Festival Event:'''",
+        "name": "Beer Festival Event:",
         "items": [
           "Removal compensation store",
           "Unlocks player shop level (All traders lvl 4)",
@@ -816,7 +833,7 @@
     ]
   },
   {
-    "version": "1.5.10.0",
+    "version": "1.5.10.0 Quest Only",
     "date": "2026-03-03",
     "category": "Alpha",
     "sections": [
@@ -867,14 +884,24 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''New Features'''",
+        "name": "New Features",
         "items": [
           "Added raid data/statistics feature: At the end of raids, view this raid's data and info on players you engaged with; back at HQ, view data from the last 30 raids",
-          "You can now exchange excess Level 6 armor for supplies and materials (S.D. Protector Full Body Armor)",
+          "You can now exchange excess Level 6 armor for supplies and materials (S.D. Protector Full Body Armor)"
+        ]
+      },
+      {
+        "name": "Fixes",
+        "items": [
           "Fixed the issue where attachments could be installed on incompatible guns",
           "Fixed the issue where players could purchase attachments that were not yet unlocked",
           "Fixed an issue with copying attachments at the gunsmith bench",
-          "Fixed the issue with HRMA scope zeroing point being incorrect",
+          "Fixed the issue with HRMA scope zeroing point being incorrect"
+        ]
+      },
+      {
+        "name": "Optimizations/Adjustments",
+        "items": [
           "Optimized SVD gunshot sound parameters",
           "Optimized the dirt effect on scope lenses",
           "Adjusted the grade/level and drop rarity of bullets in the shop"
@@ -943,7 +970,7 @@
     ]
   },
   {
-    "version": "1.5.5.0",
+    "version": "1.5.5.0 Hotfix",
     "date": "2026-01-19",
     "category": "Alpha",
     "sections": [
@@ -1084,11 +1111,11 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Full Wipe \ud83d\udd01'''",
+        "name": "Full Wipe \ud83d\udd01",
         "items": []
       },
       {
-        "name": "'''New Content'''",
+        "name": "New Content",
         "items": [
           "Added Christmas event",
           "Added Hideout Christmas decoration",
@@ -1222,7 +1249,7 @@
         ]
       },
       {
-        "name": "'''Optimizations and Bug Fixes'''",
+        "name": "Optimizations and Bug Fixes",
         "items": [
           "Optimized big map lighting effects, improving visual quality",
           "Fixed some issues causing server crashes",
@@ -1372,9 +1399,16 @@
           "Fixed an issue where the defense level of the IOTV Gen3 'Haunted' body part did not match the displayed information (now aligned with the displayed level).",
           "Corrected display errors for some icons."
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.4.5.0",
+    "date": "2025-10-24",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Additions'''",
+        "name": "Additions",
         "items": [
           "Added HQ Halloween decorations.",
           "Added special event: Smuggling Tunnel Infection game mode and related activities.",
@@ -1384,7 +1418,7 @@
         ]
       },
       {
-        "name": "'''Changes'''",
+        "name": "Changes",
         "items": [
           "Increased durability of all helmet types by approximately 30%. Significantly increased mask durability.",
           "Adjusted attenuation effects for footsteps and gunshots at long distances and through walls.",
@@ -1393,14 +1427,21 @@
         ]
       },
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed a duplication issue.",
           "Fixed the issue where enabling aim stabilization did not provide the corresponding functionality."
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.4.4.0",
+    "date": "2025-10-17",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed the issue in Taste of Life 3 where picking up sake for submission is not recognized.",
           "Fixed the item submission in Magazine Recovery: magazines containing bullets cause HQ to restart.",
@@ -1410,19 +1451,26 @@
         ]
       },
       {
-        "name": "'''Changes'''",
+        "name": "Changes",
         "items": [
           "Adjusted the firing sound when the XM5 is equipped with the SLX68 suppressor."
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.4.3.0",
+    "date": "2025-10-11",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''New Features'''",
+        "name": "New Features",
         "items": [
           "Added a setting to adjust controller offset."
         ]
       },
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed an issue where disconnection and reconnection could lead to item duplication.",
           "Fixed a bug that allowed bullets to be duplicated.",
@@ -1433,7 +1481,7 @@
         ]
       },
       {
-        "name": "'''Quest Adjustments'''",
+        "name": "Quest Adjustments",
         "items": [
           "Magazine Recovery \u2013 Fixed an issue where magazines could not be submitted.",
           "Ears in the Walls \u2013 Fixed missing quest items in the warehouse.",
@@ -1443,19 +1491,19 @@
         ]
       },
       {
-        "name": "'''Traders'''",
+        "name": "Traders",
         "items": [
           "TP Trader \u2013 Added an additional exchange option for Golden Figurines to improve the low drop rate issue."
         ]
       },
       {
-        "name": "'''Balance Adjustments'''",
+        "name": "Balance Adjustments",
         "items": [
           "Adjusted Battle Royale (BR) loot distribution and character movement speed."
         ]
       },
       {
-        "name": "'''Map Adjustments'''",
+        "name": "Map Adjustments",
         "items": [
           "Fixed overly aggressive LOD (Level of Detail) settings on several models.",
           "Fixed terrain areas where players could get stuck.",
@@ -1463,16 +1511,30 @@
           "Fixed misaligned coastline boundaries in Suburb and Dam.",
           "Fixed missing collisions on certain models."
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.4.2.1",
+    "date": "2025-09-30",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed issues for quests that were unable to be completed",
           "Fixed map issue on Smuggling Tunnel"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.4.2.0",
+    "date": "2025-09-28",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed the issue where some players were unable to properly claim DLC. There may be a very small number of players who did not receive it correctly; please contact with email: store@cavemanstudio.net",
           "Fixed the issue where the golden globe in the Secret Stash 2 quest could not be placed.",
@@ -1484,20 +1546,27 @@
         ]
       },
       {
-        "name": "'''Changes'''",
+        "name": "Changes",
         "items": [
           "Updated the text description for Shades for Boom.",
           "Modified the content of The Gunsmith \u201cAttach\u201d quest and its subsequent unlock conditions."
         ]
       },
       {
-        "name": "'''Additions'''",
+        "name": "Additions",
         "items": [
           "Added exposure correction settings for PC."
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.4.1.0",
+    "date": "2025-09-26",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed an issue where medical item submission tasks could fail.",
           "Fixed VD controller offset issue.",
@@ -1512,24 +1581,38 @@
         ]
       },
       {
-        "name": "'''Additions'''",
+        "name": "Additions",
         "items": [
           "Added 2 Steam VR launch options DirectX11 and DirectX12"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.4.0.2",
+    "date": "2025-09-25",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed quest long loading time into raid",
           "Fixed hideout reloading issue"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.4.0.0",
+    "date": "2025-09-25",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Full Wipe \ud83d\udd01'''",
+        "name": "Full Wipe \ud83d\udd01",
         "items": []
       },
       {
-        "name": "'''Game Content'''",
+        "name": "Game Content",
         "items": [
           "New Gunsmith System",
           "Added Gunsmith shop and merchant.",
@@ -1540,7 +1623,7 @@
         ]
       },
       {
-        "name": "'''Expanded Gunsmith system'''",
+        "name": "Expanded Gunsmith system",
         "items": [
           "600+ attachments",
           "54 lower receivers",
@@ -1552,7 +1635,7 @@
         ]
       },
       {
-        "name": "'''New Questlines'''",
+        "name": "New Questlines",
         "items": [
           "Added Gunsmith questline.",
           "Added Smuggling Tunnel questline.",
@@ -1560,7 +1643,7 @@
         ]
       },
       {
-        "name": "'''Weapons'''",
+        "name": "Weapons",
         "items": [
           "Some weapons are now grouped into weapon families, unlocking more modification options.",
           "Added muzzle brakes and suppressors for the AK series.",
@@ -1576,7 +1659,7 @@
         ]
       },
       {
-        "name": "'''Combat & AI Adjustments'''",
+        "name": "Combat & AI Adjustments",
         "items": [
           "limb damage distribution for AI, players, and training dummies.",
           "Stomach damage multiplier increased to 1.5x.",
@@ -1586,7 +1669,7 @@
         ]
       },
       {
-        "name": "'''Systems & Quality of Life'''",
+        "name": "Systems & Quality of Life",
         "items": [
           "Added Quest rendering mode option: choose between Native and Space Warp.",
           "Added sound effects when extracting.",
@@ -1615,7 +1698,7 @@
         ]
       },
       {
-        "name": "'''Map Updates'''",
+        "name": "Map Updates",
         "items": [
           "New Map: Smuggling Tunnel (Exfilzone).",
           "Fixed floating vegetation in multiple regions.",
@@ -1629,7 +1712,7 @@
         ]
       },
       {
-        "name": "'''Battle Royale'''",
+        "name": "Battle Royale",
         "items": [
           "Updated the weapon recoil system.",
           "Increased base and headshot damage of rifles and sniper rifles.",
@@ -1639,38 +1722,84 @@
         ]
       },
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Major and minor bug fixes"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.3.16.1",
+    "date": "2025-09-08",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
+        "items": [
+          "Fixed crashing issues when leaving raid/match"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.16.0",
+    "date": "2025-09-05",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Pre-wipe event Pt.2",
         "items": [
           "Log in and receive an additional 10mil in-game currency",
           "Everything unlocked in trader stores (including items that are normally unlocked behind quests)",
-          "High-value loot spawn rate increased by 10%",
+          "High-value loot spawn rate increased by 10%"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.3.15.0",
+    "date": "2025-08-22",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Pre-wipe event",
+        "items": [
           "Level 4 traders",
           "All users are given $ 1,000,000 start of pre-wipe",
           "Boss spawn rates are now 100%",
           "Added 2 new posters teasing the upcoming Smuggling Tunnel map"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.3.14.0",
+    "date": "2025-08-08",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed an issue causing a minority of players unable to join raids",
           "Updated and improved backend (added 2025-08-13)"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "version": "1.3.13.0",
+    "date": "2025-08-01",
+    "category": "Alpha",
+    "sections": [
       {
-        "name": "'''Changes'''",
+        "name": "Changes",
         "items": [
           "Keys can be deposited in safe container"
         ]
       },
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Going to tutorial will stop matching (Stop players using Metro ticket bug)",
           "Backend fixes"
@@ -1684,7 +1813,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Added upgraded EAC support",
           "Fixed the abnormal sound caused by HQ posters",
@@ -1701,7 +1830,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''New Content'''",
+        "name": "New Content",
         "items": [
           "Added posters as placeable items in HQ",
           "Added flare gun and related tasks",
@@ -1718,13 +1847,13 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed an issue where reconnection after a disconnection might cause equipment loss."
         ]
       },
       {
-        "name": "Weekend Event:",
+        "name": "Weekend Event",
         "items": [
           "Metro free weekend event"
         ]
@@ -1737,7 +1866,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed a duplication issue caused by disconnection and reconnection.",
           "Fixed an issue where Resort could be glitched underground using a truck.",
@@ -1753,7 +1882,7 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed a collision issue near the Police Station in Suburb."
         ]
@@ -1766,14 +1895,14 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "'''Content Optimization'''",
+        "name": "Content Optimization",
         "items": [
           "Added a prompt for when the kiosk storage is insufficient while claiming emails.",
           "Modified the \"Big Guys\" task to require marking 3 tanks instead of 4, preventing players from needing to re-enter the map multiple times."
         ]
       },
       {
-        "name": "'''Armor Adjustments'''",
+        "name": "Armor Adjustments",
         "items": [
           "Added chin protection to the OP High-Protection Helmet, now selectable at the shooting range.",
           "Reduced the actual durability of the RYS-T Ballistic Helmet.",
@@ -1782,7 +1911,7 @@
         ]
       },
       {
-        "name": "'''Ammunition Adjustments'''",
+        "name": "Ammunition Adjustments",
         "items": [
           "7.62x39mm PS penetration increased from 3.1 to 3.3",
           "7.62x39mm BP penetration increased from 4.5 to 4.6",
@@ -1791,7 +1920,7 @@
         ]
       },
       {
-        "name": "'''Item Balance Adjustments'''",
+        "name": "Item Balance Adjustments",
         "items": [
           "Adjusted purchase prices, methods, stock, and required trader levels for some items.",
           "RYS-T Face Shield: Changed to barter-only (1x Electric Drill + 1x Iodine), stock set to 3.",
@@ -1809,7 +1938,7 @@
         ]
       },
       {
-        "name": "'''Bug Fixes'''",
+        "name": "Bug Fixes",
         "items": [
           "Fixed a duplication issue allowing items to be thrown out of the stash during settlement.",
           "Fixed an issue where the M40A5 could be loaded with incorrect ammunition.",
@@ -1826,7 +1955,7 @@
         ]
       },
       {
-        "name": "'''Map Content Fixes'''",
+        "name": "Map Content Fixes",
         "items": [
           "Suburb Fixes:",
           "Bunker evacuation point: Fixed bunker gate getting stuck.",
@@ -1930,8 +2059,8 @@
           "Added DLC Packs:",
           "NTG Standard Issue",
           "Johnny's secret stash",
-          "Steam store page:[https://store.steampowered.com/dlc/2719160]",
-          "Meta store page (go to Add-ons):[https://www.meta.com/en-gb/experiences/contractors-showdown-exfilzone/4963431797114722/#addons]"
+          "[https://store.steampowered.com/dlc/2719160 Steam store page]",
+          "[https://www.meta.com/en-gb/experiences/contractors-showdown-exfilzone/4963431797114722/#addons Meta store page (go to Add-ons)]"
         ]
       }
     ]
@@ -2139,7 +2268,7 @@
         "items": []
       },
       {
-        "name": "Beer Festival Event:",
+        "name": "Beer Festival Event",
         "items": [
           "Unlocks player shop level (All traders lvl 4)",
           "Discounted shop items",
@@ -2256,13 +2385,13 @@
     "category": "Alpha",
     "sections": [
       {
-        "name": "New Feature:",
+        "name": "New Feature",
         "items": [
           "Implemented \"Raid Reconnection\", Players can connect back to a raid if get disconnected abnormally"
         ]
       },
       {
-        "name": "Bug Fixes and Improvements:",
+        "name": "Bug Fixes and Improvements",
         "items": [
           "Fixed SECA17 SSR Sight attachment installation issue",
           "Fixed SECA16, P250, Mosin OBREZ and MP5 attenuation issue",
@@ -2283,6 +2412,7 @@
       {
         "name": "New Content",
         "items": [
+          "Weapons Added",
           "AUG A3 9x19 Para SMG Olive",
           "AUG A1 STG77 5.56x45 Assault Rifle Olive",
           "AUG A3 STG77 5.56x45 Assault Rifle FDE",
@@ -2292,17 +2422,22 @@
           "Mosin M38 7.62x54R Bolt-Action Carbine Rifle",
           "Mosin \"Obrez\" 7.62x54R Bolt-Action Pistol",
           "SVT-40 7.62x54R Semi-Automatic Rifle",
+          "New Iron Sights",
           "CA Ironsight FFS Black",
           "CA Ironsight FFS FDE",
           "CA Ironsight FFS Olive",
           "CA Ironsight FRS Black",
           "CA Ironsight FRS FDE",
           "CA Ironsight FRS Olive",
+          "All iron sights are detachable and foldable.",
+          "New Muzzle Attachments",
           "AUG 5.56x45 Muzzle Adapter",
+          "New Magazines",
           "AUG 9x19 MP88 Mag (25-Round) (Compatible with Universal Pouch, Mag Pouch Large, Mag Pouch Medium, Mag Pouch Small, Faster Rifle Mag Holster)",
           "AUG 5.56x45 Mag (30-Round) (Compatible with Universal Pouch, Mag Pouch Large, Mag Pouch Medium, Faster Rifle Mag Holster)",
           "AUG 5.56x45 Mag (42-Round) (Compatible with Universal Pouch, Mag Pouch Large, Mag Pouch Medium, Faster Rifle Mag Holster)",
           "SVT-40 7.62x54R Mag (10-Round) (Compatible with Universal Pouch, Mag Pouch Large)",
+          "New Scopes",
           "Mosin PU 3.5X Scope (For Mosin-91/30 Bolt-Action Sniper Rifle)",
           "SVT PU 3.5X Scope (For SVT-40 Semi-Automatic Rifle)"
         ]
@@ -2360,9 +2495,22 @@
           "Fixed terrain issues causing players to fall out of the map.",
           "Fixed sliding slope issues allowing players to clip into models.",
           "Fixed a cliff corner near the power station where players could enter terrain.",
+          "Metro",
           "Fixed invisible walls blocking bullets in some areas.",
           "Fixed incorrect floor collision in the medical area.",
-          "Resolved ceiling clipping issues allowing players to see upper floors.",
+          "Resolved ceiling clipping issues allowing players to see upper floors."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2.3.2",
+    "date": "2025-01-10",
+    "category": "Alpha",
+    "sections": [
+      {
+        "name": "Changes",
+        "items": [
           "Fixed an issue where having too many items in the backpack could cause the game to freeze."
         ]
       }
@@ -2577,7 +2725,7 @@
         ]
       },
       {
-        "name": "Adjustments:",
+        "name": "Adjustments",
         "items": [
           "Audio Rework:",
           "Reworked weapon, footstep, and Metro audio attenuation.",
@@ -2611,7 +2759,7 @@
         ]
       },
       {
-        "name": "Balancing:",
+        "name": "Balancing",
         "items": [
           "Hideout Facilities:",
           "Adjusted material requirements, prices, and levels.",
@@ -2634,7 +2782,7 @@
         ]
       },
       {
-        "name": "Bug Fixes:",
+        "name": "Bug Fixes",
         "items": [
           "Fixed Scav players spawning together.",
           "Resolved issues caused by disconnections affecting equipment, missions, and friend lists.",
@@ -2657,7 +2805,7 @@
         ]
       },
       {
-        "name": "Map Adjustments:",
+        "name": "Map Adjustments",
         "items": [
           "Resolved visual clipping issues across the map.",
           "Fixed a bug causing players to get stuck near the Motel windows.",
@@ -2666,7 +2814,7 @@
         ]
       },
       {
-        "name": "Environment Fixes:",
+        "name": "Environment Fixes",
         "items": [
           "Fixed overly bright glass railings in the mall.",
           "Resolved obstruction issues on the second-floor staircase of the office building near the motel.",
@@ -2677,7 +2825,7 @@
     ]
   },
   {
-    "version": "No version number",
+    "version": "Alpha build 5",
     "date": "2024-12-14",
     "category": "Alpha",
     "sections": [
@@ -2693,7 +2841,7 @@
     ]
   },
   {
-    "version": "No version number",
+    "version": "Alpha build 4",
     "date": "2024-12-13",
     "category": "Alpha",
     "sections": [
@@ -2713,7 +2861,7 @@
     ]
   },
   {
-    "version": "No version number",
+    "version": "Alpha build 3",
     "date": "2024-12-10",
     "category": "Alpha",
     "sections": [
@@ -2735,7 +2883,7 @@
     ]
   },
   {
-    "version": "No version number",
+    "version": "Alpha build 2",
     "date": "2024-12-08",
     "category": "Alpha",
     "sections": [
@@ -2752,7 +2900,7 @@
     ]
   },
   {
-    "version": "No version number",
+    "version": "Alpha build 1",
     "date": "2024-12-07",
     "category": "Alpha",
     "sections": [

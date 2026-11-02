@@ -5,7 +5,14 @@
   <link>https://github.com/DonZzzilla/csez-changelog</link>
   <description>Full patch history for Contractors Showdown ExfilZone</description>
   <language>en</language>
-  <lastBuildDate>Fri, 30 Oct 2026 14:40:24 -0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 07:33:05 -0000</lastBuildDate>
+  <item>
+    <title>1.7.3.0 (2026-10-30)</title>
+    <link>https://csez.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Patch Note v1.7.3.0<br>&amp;bull; Made further adjustments aimed at improving anti-cheat protection.<br>&amp;bull; Fixed an issue preventing the M870-DM from being pumped.<br>&amp;bull; Fixed an ammunition duplication bug.<br>&amp;bull; Attempted to fix an issue where using the Mosin could falsely trigger anti-cheat detection.]]></description>
+    <pubDate>Fri, 30 Oct 2026 07:00:00 -0000</pubDate>
+    <guid>csez-1-7-3-0</guid>
+  </item>
   <item>
     <title>1.7.2.0 (2026-10-23)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
@@ -23,14 +30,14 @@
   <item>
     <title>1.7.1.0 (2026-10-16)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; **Anti-Cheat**<br>&amp;bull; Implemented additional anti-cheat measures to improve fair play.<br>&amp;bull; **Bug Fixes &amp; Improvements**<br>&amp;bull; Fixed an exploit that allowed players to generate money using medical kits.<br>&amp;bull; Fixed an issue causing map assets and character models to appear completely black.]]></description>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Anti-Cheat<br>&amp;bull; Implemented additional anti-cheat measures to improve fair play.<br>&amp;bull; Bug Fixes &amp; Improvements<br>&amp;bull; Fixed an exploit that allowed players to generate money using medical kits.<br>&amp;bull; Fixed an issue causing map assets and character models to appear completely black.]]></description>
     <pubDate>Fri, 16 Oct 2026 07:00:00 -0000</pubDate>
     <guid>csez-1-7-1-0</guid>
   </item>
   <item>
     <title>1.7.0.3 (2026-10-10)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Patch v1.7.0.3 is live, make sure tor restart you headset/software in order to install the update<br>&amp;bull; Patch Note v1.7.0.3<br>&amp;bull; Fixed an issue where switching modes could cause data errors and incorrect trader levels.<br>&amp;bull; Fixed HQ buffs not applying during raids.<br>&amp;bull; Fixed some weapon spray not displaying correctly after entering a raid.]]></description>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Patch v1.7.0.3 is live, make sure to restart your headset/software in order to install the update<br>&amp;bull; Patch Note v1.7.0.3<br>&amp;bull; Fixed an issue where switching modes could cause data errors and incorrect trader levels.<br>&amp;bull; Fixed HQ buffs not applying during raids.<br>&amp;bull; Fixed some weapon spray not displaying correctly after entering a raid.]]></description>
     <pubDate>Sat, 10 Oct 2026 07:00:00 -0000</pubDate>
     <guid>csez-1-7-0-3</guid>
   </item>
@@ -77,16 +84,16 @@
     <guid>csez-1-6-14-0</guid>
   </item>
   <item>
-    <title>1.6.13.0 (2026-07-21)</title>
+    <title>1.6.13.0 Hotfix (2026-07-21)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
     <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Fixed an issue with players unable to join raids.]]></description>
     <pubDate>Tue, 21 Jul 2026 07:00:00 -0000</pubDate>
-    <guid>csez-1-6-13-0</guid>
+    <guid>csez-1-6-13-0 Hotfix</guid>
   </item>
   <item>
     <title>1.6.13.0 (2026-07-17)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Added the Max's Collection event.<br>&amp;bull; Fixed an issue that allowed players to access unintended areas of the Battle royale  map.<br>&amp;bull; https://maxcollection.contractorsvr.com]]></description>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Added the Max's Collection event.<br>&amp;bull; Fixed an issue that allowed players to access unintended areas of the Battle royale map.<br>&amp;bull; https://maxcollection.contractorsvr.com]]></description>
     <pubDate>Fri, 17 Jul 2026 07:00:00 -0000</pubDate>
     <guid>csez-1-6-13-0</guid>
   </item>
@@ -98,11 +105,11 @@
     <guid>csez-1-6-12-2</guid>
   </item>
   <item>
-    <title>v1.6.12.1 (2026-07-03)</title>
+    <title>1.6.12.1 (2026-07-03)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
     <description><![CDATA[<strong>Fixes</strong><br>&amp;bull; Fixed an issue where HQ Perks could be lost during a raid.<br>&amp;bull; Fixed an offset issue with stock calibration gestures.<br>&amp;bull; Fixed incorrect weapon stats displayed for the RSH-12 in the shop.<br>&amp;bull; Fixed an abnormal state affecting one of the revolvers.<br>&amp;bull; Restored the missing equipment rack in the HQ.]]></description>
     <pubDate>Fri, 03 Jul 2026 07:00:00 -0000</pubDate>
-    <guid>csez-v1-6-12-1</guid>
+    <guid>csez-1-6-12-1</guid>
   </item>
   <item>
     <title>1.6.12.0 (2026-07-02)</title>
@@ -189,11 +196,11 @@
     <guid>csez-1-6-2-0</guid>
   </item>
   <item>
-    <title>1.6.1.0 (2026-04-23)</title>
+    <title>1.6.1.0 Quest Only (2026-04-23)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Make sure to restart your device/software in order to install the update<br>&amp;bull; Fixed quest jittering issue]]></description>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Make sure to restart your device/software in order to install the update<br>&amp;bull; Fixed quest jittering issue (Quest standalone only)]]></description>
     <pubDate>Thu, 23 Apr 2026 07:00:00 -0000</pubDate>
-    <guid>csez-1-6-1-0</guid>
+    <guid>csez-1-6-1-0 Quest Only</guid>
   </item>
   <item>
     <title>1.6.1.0 (2026-04-23)</title>
@@ -205,16 +212,16 @@
   <item>
     <title>1.6.0.0 (2026-04-21)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>'''New Features'''</strong><br>&amp;bull; Introduced the new PvE Mode, offering a dedicated co-op experience for players looking for a more accessible and structured way to enter ExfilZone<br>&amp;bull; Added two difficulty options: Casual and Standard<br>&amp;bull; Squad-based PvE can now be unlocked through the party leader purchasing the DLC<br>&amp;bull; Added PMC AI<br>&amp;bull; Smarter behavior logic<br><strong>'''Optimizations, Adjustments, and Bug Fixes'''</strong><br>&amp;bull; Adjusted Hideout facility layout and functions for an upgraded base management experience<br>&amp;bull; Added Kiosk Direct Sale, allowing players to sell items directly for more convenient cash conversion<br>&amp;bull; Adjusted the quest line with improved mission flow and crafting logic for a smoother onboarding experience<br>&amp;bull; Improved difficulty information display for maps: Dam, Suburb, and Resort<br>&amp;bull; Removed the ability to place keys inside the secure container]]></description>
+    <description><![CDATA[<strong>New Features</strong><br>&amp;bull; Introduced the new PvE Mode, offering a dedicated co-op experience for players looking for a more accessible and structured way to enter ExfilZone<br>&amp;bull; Added two difficulty options: Casual and Standard<br>&amp;bull; Squad-based PvE can now be unlocked through the party leader purchasing the DLC<br>&amp;bull; Added PMC AI<br>&amp;bull; Smarter behavior logic<br><strong>Optimizations, Adjustments, and Bug Fixes</strong><br>&amp;bull; Adjusted Hideout facility layout and functions for an upgraded base management experience<br>&amp;bull; Added Kiosk Direct Sale, allowing players to sell items directly for more convenient cash conversion<br>&amp;bull; Adjusted the quest line with improved mission flow and crafting logic for a smoother onboarding experience<br>&amp;bull; Improved difficulty information display for maps: Dam, Suburb, and Resort<br>&amp;bull; Removed the ability to place keys inside the secure container]]></description>
     <pubDate>Tue, 21 Apr 2026 07:00:00 -0000</pubDate>
     <guid>csez-1-6-0-0</guid>
   </item>
   <item>
-    <title>1.5.14.0 (2026-04-10)</title>
+    <title>1.5.14.0 Server Update (2026-04-10)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
     <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Server side update for v.1.5.14.0<br>&amp;bull; Fixed safe container issue not saving items upon death]]></description>
     <pubDate>Fri, 10 Apr 2026 07:00:00 -0000</pubDate>
-    <guid>csez-1-5-14-0</guid>
+    <guid>csez-1-5-14-0 Server Update</guid>
   </item>
   <item>
     <title>1.5.14.0 (2026-04-09)</title>
@@ -226,7 +233,7 @@
   <item>
     <title>1.5.13.0 (2026-04-02)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Added pre-wipe event<br><strong>'''Beer Festival Event:'''</strong><br>&amp;bull; Removal compensation store<br>&amp;bull; Unlocks player shop level (All traders lvl 4)<br>&amp;bull; Discounted shop items 50%<br>&amp;bull; HQ upgrade materials replaced with beer<br>&amp;bull; Killing scavs now drops beer (2 new special beers)]]></description>
+    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Added pre-wipe event<br><strong>Beer Festival Event:</strong><br>&amp;bull; Removal compensation store<br>&amp;bull; Unlocks player shop level (All traders lvl 4)<br>&amp;bull; Discounted shop items 50%<br>&amp;bull; HQ upgrade materials replaced with beer<br>&amp;bull; Killing scavs now drops beer (2 new special beers)]]></description>
     <pubDate>Thu, 02 Apr 2026 07:00:00 -0000</pubDate>
     <guid>csez-1-5-13-0</guid>
   </item>
@@ -252,11 +259,11 @@
     <guid>csez-1-5-11-0</guid>
   </item>
   <item>
-    <title>1.5.10.0 (2026-03-03)</title>
+    <title>1.5.10.0 Quest Only (2026-03-03)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
     <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Fixed issue that some standalone Quest users were unable to connect to the servers]]></description>
     <pubDate>Tue, 03 Mar 2026 08:00:00 -0000</pubDate>
-    <guid>csez-1-5-10-0</guid>
+    <guid>csez-1-5-10-0 Quest Only</guid>
   </item>
   <item>
     <title>1.5.10.0 (2026-02-28)</title>
@@ -275,7 +282,7 @@
   <item>
     <title>1.5.8.0 (2026-02-05)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>'''New Features'''</strong><br>&amp;bull; Added raid data/statistics feature: At the end of raids, view this raid's data and info on players you engaged with; back at HQ, view data from the last 30 raids<br>&amp;bull; You can now exchange excess Level 6 armor for supplies and materials (S.D. Protector Full Body Armor)<br>&amp;bull; Fixed the issue where attachments could be installed on incompatible guns<br>&amp;bull; Fixed the issue where players could purchase attachments that were not yet unlocked<br>&amp;bull; Fixed an issue with copying attachments at the gunsmith bench]]></description>
+    <description><![CDATA[<strong>New Features</strong><br>&amp;bull; Added raid data/statistics feature: At the end of raids, view this raid's data and info on players you engaged with; back at HQ, view data from the last 30 raids<br>&amp;bull; You can now exchange excess Level 6 armor for supplies and materials (S.D. Protector Full Body Armor)<br><strong>Fixes</strong><br>&amp;bull; Fixed the issue where attachments could be installed on incompatible guns<br>&amp;bull; Fixed the issue where players could purchase attachments that were not yet unlocked<br>&amp;bull; Fixed an issue with copying attachments at the gunsmith bench<br>&amp;bull; Fixed the issue with HRMA scope zeroing point being incorrect<br><strong>Optimizations/Adjustments</strong><br>&amp;bull; Optimized SVD gunshot sound parameters<br>&amp;bull; Optimized the dirt effect on scope lenses<br>&amp;bull; Adjusted the grade/level and drop rarity of bullets in the shop]]></description>
     <pubDate>Thu, 05 Feb 2026 08:00:00 -0000</pubDate>
     <guid>csez-1-5-8-0</guid>
   </item>
@@ -294,11 +301,11 @@
     <guid>csez-1-5-6-0</guid>
   </item>
   <item>
-    <title>1.5.5.0 (2026-01-19)</title>
+    <title>1.5.5.0 Hotfix (2026-01-19)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
     <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Security update<br>&amp;bull; Friend system issues fix]]></description>
     <pubDate>Mon, 19 Jan 2026 08:00:00 -0000</pubDate>
-    <guid>csez-1-5-5-0</guid>
+    <guid>csez-1-5-5-0 Hotfix</guid>
   </item>
   <item>
     <title>1.5.5.0 (2026-01-16)</title>
@@ -338,7 +345,7 @@
   <item>
     <title>1.5.0.0 (2025-12-22)</title>
     <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>'''New Content'''</strong><br>&amp;bull; Added Christmas event<br>&amp;bull; Added Hideout Christmas decoration<br>&amp;bull; New weapons and attachments<br>&amp;bull; Added Quick Loadout:<br>&amp;bull; Overhauled Dam map: Modified natural terrain of the Dam, optimized POI distribution and structures, redesigned Dam route planning. New POIs added to Dam map: Turbine Field, Lumberyard, Camp#10, Crash Site, Desolate Village, Field Clinic, Weather Outpost<br><strong>'''Optimizations and Bug Fixes'''</strong><br>&amp;bull; Optimized big map lighting effects, improving visual quality<br>&amp;bull; Fixed some issues causing server crashes<br>&amp;bull; Adjusted model sizes for some high-value items, redesigned visual effects for certain items<br>&amp;bull; Optimized compass display<br>&amp;bull; Optimized Hideout structure]]></description>
+    <description><![CDATA[<strong>New Content</strong><br>&amp;bull; Added Christmas event<br>&amp;bull; Added Hideout Christmas decoration<br>&amp;bull; New weapons and attachments<br>&amp;bull; Added Quick Loadout:<br>&amp;bull; Overhauled Dam map: Modified natural terrain of the Dam, optimized POI distribution and structures, redesigned Dam route planning. New POIs added to Dam map: Turbine Field, Lumberyard, Camp#10, Crash Site, Desolate Village, Field Clinic, Weather Outpost<br><strong>Optimizations and Bug Fixes</strong><br>&amp;bull; Optimized big map lighting effects, improving visual quality<br>&amp;bull; Fixed some issues causing server crashes<br>&amp;bull; Adjusted model sizes for some high-value items, redesigned visual effects for certain items<br>&amp;bull; Optimized compass display<br>&amp;bull; Optimized Hideout structure]]></description>
     <pubDate>Mon, 22 Dec 2025 08:00:00 -0000</pubDate>
     <guid>csez-1-5-0-0</guid>
   </item>
@@ -348,13 +355,6 @@
     <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Fixed Issue for bullets showing wrong caliber and types.<br>&amp;bull; Ammunition for new weapons can be found in raid (in preparation for events)<br>&amp;bull; High Tier armor can be bought from Trader. Pre-wipe change enjoy]]></description>
     <pubDate>Fri, 12 Dec 2025 08:00:00 -0000</pubDate>
     <guid>csez-1-4-11-0</guid>
-  </item>
-  <item>
-    <title>1.4.10.0 (2025-12-12)</title>
-    <link>https://csez.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>Changes</strong><br>&amp;bull; Fixed a duplication issue with the Gunsmith bench<br>&amp;bull; Fixed a duplication issue in the kiosk<br>&amp;bull; Fixed an issue that could cause the onboarding/tutorial to be entered multiple times]]></description>
-    <pubDate>Fri, 12 Dec 2025 08:00:00 -0000</pubDate>
-    <guid>csez-1-4-10-0</guid>
   </item>
 </channel>
 </rss>
